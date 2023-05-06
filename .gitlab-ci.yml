@@ -1,0 +1,35 @@
+---
+stages:
+  - preview-stage
+  - deploy-stage
+
+pages:preview:
+  stage: preview-stage
+  image:
+    name: squidfunk/mkdocs-material:9.1.4
+    entrypoint: ["/bin/sh", "-c"]
+  script:
+    - mkdocs build --strict --verbose --site-dir public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_PIPELINE_SOURCE != "merge_request_event"
+      when: never
+    - when: always
+  environment:
+    name: "preview/${CI_PROJECT_NAME}/mr-${CI_MERGE_REQUEST_IID}"
+    url: "https://${CI_PROJECT_NAMESPACE}.gitlab.io/-/${CI_PROJECT_NAME}/-/jobs/${CI_JOB_ID}/artifacts/public/index.html"
+
+pages:
+  stage: deploy-stage
+  image:
+    name: squidfunk/mkdocs-material:9.1.4
+    entrypoint: ["/bin/sh", "-c"]
+  script:
+    - mkdocs build --strict --verbose --site-dir public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
