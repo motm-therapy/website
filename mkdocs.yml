@@ -1,0 +1,48 @@
+---
+
+site_name: Matters of the Mind Therapy
+
+theme:
+  name: material
+  font:
+    text: Bree Serif
+    code: Roboto Mono
+  palette:
+    scheme: default
+    primary: custom
+    accent: green
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+
+markdown_extensions:
+  - md_in_html
+  - attr_list
+  - admonition
+
+use_directory_urls: true
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Welcome: "index.md"
+  - Services: "services.md"
+  - Payment: "payment.md"
+  - Fees: "fees.md"
+  - Contact: "contact.md"
+
+plugins:
+  - search
+
+...
+
