@@ -30,7 +30,7 @@ The following rates are for cash-only clients and are based on the "usual and cu
 
 The following are the services that fall under this rate:
 
-- (placeholder) Treatment type/length #1
+- (placeholder) Treatment type/length #1 test
 - (placeholder) Treatment type/length #2
 - (placeholder) Treatment type/length #3
 
