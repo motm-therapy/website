@@ -16,7 +16,7 @@
 
 ### Another
 
-(placeholder) description of other methodology goes here
+(placeholder) description of another methodology goes here
 
 ## By Disorder
 
