@@ -12,7 +12,7 @@ As a result, insurance coverage/reimbursement rates and co-pays vary greatly bas
 
 The following rates are for cash-only clients and are based on the "usual and customary rates" for these services, for the client's local area.
 
- - (fee placeholder)
+ - (fee placeholder) test
 
 The following are the services that fall under this rate:
 
