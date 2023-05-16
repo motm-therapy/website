@@ -1,12 +1,11 @@
 # Services
 
-----------
-
-## By Provider
+Here at Matters of the Mind Therapy LLC, we provide out-patient treatment only.  
+---------
 
 ### Jasmine
 
-(placeholder) describe treatment, demographic, and disorder specialties
+Is trained to provide trauma-focused treatment using Prolonged Exposure and Cognitive Processing Treatment. 
 
 ## By Treatment
 
