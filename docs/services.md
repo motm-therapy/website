@@ -1,4 +1,4 @@
-# Services
+# Our Services
 
 Here at Matters of the Mind Therapy LLC, we provide out-patient treatment for individuals and couples.
 We see anyone ages 13 and up, no matter their race, sexual orientation, gender identity, religion, or political leanings.
