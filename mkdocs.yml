@@ -38,7 +38,7 @@ nav:
   - Welcome: "index.md"
   - About: "about.md"
   - Services: "services.md"
-  - Fees: "fees.md"
+  - Rates: "rates.md"
   - Contact: "contact.md"
 
 plugins:
