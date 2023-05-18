@@ -15,7 +15,7 @@ If we are unable to answer, we will respond to voicemails within one business da
 
 - [123-456-7890](tel:1234567890)
 
-If you are ready to schedule an intake appointment with a provider, please visit our [services](services.md) page.
+If you are ready to schedule an appointment with a provider, please visit our [services](services.md) page.
 
 If you are experiencing a medical emergency, please call [911](tel:911).
 
