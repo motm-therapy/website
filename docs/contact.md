@@ -1,5 +1,9 @@
 # Contact Us
 
+## Appointments
+
+If you are ready to schedule an appointment with a provider, please visit our [services](services.md) page.
+
 ## Email
 
 We will respond to requests via email within one business day.
@@ -27,8 +31,3 @@ Paper medical records may be transferred to the practice via fax.
 - [123-456-7890](tel:1234567890)
 
 Please call to confirm receipt.
-
-## Appointments
-
-If you are ready to schedule an appointment with a provider, please visit our [services](services.md) page.
-
