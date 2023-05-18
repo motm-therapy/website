@@ -1,3 +1,5 @@
+# Our Rates and Fees
+
 ## Insurance
 
 Services may be covered in full or in part by your health insurance or employee benefit plan.
