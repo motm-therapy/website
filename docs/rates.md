@@ -18,7 +18,7 @@ Insurances we accept at this time:
 
 - Aetna
 
-## Non-Insurance Rate
+### Non-Insurance Rate
 
 The cash-only rate for clients without insurance is as follows:
 
