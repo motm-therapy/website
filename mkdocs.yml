@@ -7,7 +7,6 @@ theme:
   font:
     text: Bree Serif
   palette:
-    theme:
     # Palette toggle for light mode
     - scheme: default
       primary: custom
@@ -15,7 +14,6 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - scheme: slate
       primary: custom
@@ -23,7 +21,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-
   logo: assets/logo.png
   favicon: assets/favicon.png
   features:
