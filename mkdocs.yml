@@ -36,6 +36,7 @@ extra_css:
 
 nav:
   - Welcome: "index.md"
+  - About: "about.md"
   - Services: "services.md"
   - Fees: "fees.md"
   - Contact: "contact.md"
