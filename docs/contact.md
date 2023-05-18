@@ -6,7 +6,7 @@ We will respond to requests via email within one business day.
 
 - [jasmine@motmtherapy.com](mailto:jasmine@motmtherapy.com)
 
-Electronic medical records may be sent to us other providers via email. Please call to confirm receipt.
+Electronic medical records may be sent to us from other providers via email. Please call to confirm receipt.
 
 ## Phone
 
