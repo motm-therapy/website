@@ -25,10 +25,10 @@ Cash, check, and all major credit cards accepted for payment.
 
 Clients will be sent an email and/or text notifications prior to sessions as a courtesy reminder.  
 
-## Cancellation
+## Cancellations
 
 If you do not show up for your scheduled therapy appointment, and you have not notified us at least 24 hours in advance, you will be required to pay a $75 no-show fee.  If there are three consecutive no-show/no-calls the theraputic alliance will be terminated.
 
-## Reschedule
+## Reschedules
 
 Appointments moved to a different time slot during the same week as the original appointment will not incur a fee. 
