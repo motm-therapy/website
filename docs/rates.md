@@ -9,6 +9,7 @@ Please check your coverage carefully by asking the following questions:
 
 - Do I have mental health insurance benefits?
 - What is my deductible and has it been met?
+- What will my co-pay per session (if any) be?
 - How many sessions per year does my health insurance cover?
 - What is the coverage amount per therapy session?
 - Is approval required from my primary care physician?
