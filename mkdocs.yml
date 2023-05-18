@@ -5,7 +5,7 @@ site_name: Matters of the Mind Therapy
 theme:
   name: material
   font:
-    text: Niramit
+    text: Corben
   palette:
     # Palette toggle for light mode
     - scheme: default
