@@ -1,28 +1,21 @@
 # Welcome
 
-----------
-
 ## Mission
 
 The mission of Matters of the Mind Therapy, LLC is:
 
-- To provide comprehensive behavioral health, education, and prevention services to every person interested using evidence-based techniques. 
+- Provide comprehensive behavioral health, education, and prevention services to every patient interested using evidence-based therapy techniques
 
 ## Vision
 
 The vision of Matters of the Mind Therapy, LLC is:
 
-- We appreciate and respect the diversity and cultural differences of our patients and take into account the many multidimensional aspects of their lives. Culture is important and should be preserved, so care will be taken to support not replace cultural identity.
-- We strive to identify with our patients’ situations and to have a sense of their feelings and emotions related to their needs. Help them learn what works and doesn't work for them using a strentgh-based approach.
-- We strongly uphold moral and ethical principles in our daily practice and in delivery of services. Our patients entrust their wellness to our professional care and expect to be treated, and to receive treatment, in a manner that honors professional codes and standards.  We will stay current on best practices in the treatments used in session.
-- We will advocate for our patients and believe that every patient comes into therapy trying to do their best. 
-We will also strive to provide a collabrate treatment by connecting with the patients other providers, if the patient wants this level of support.
-
-## About Us
-
-### Jasmine
-
-(placeholder) biographical information about the provider in narrative format
-
-----------
-
+- Appreciate and respect the diversity and cultural differences of our patients and take into account the many multi-dimensional aspects of their lives
+- Recognize and preserve culture by providing care that takes and supports, not replaces, cultural identity
+- Identify with our patients’ situations and have a sense of feelings and emotions related to their needs
+- Help patients learn what works, and what doesn't work, for them using a strengths-based approach
+- Uphold moral and ethical principles in our daily practice and in delivery of services
+- Provide care in a manner that honors our professional codes and standards
+- Stay current on the latest known best practices and treatment options used in our sessions
+- Advocate for our patients and believe that every patient comes into therapy trying to do their best 
+- Strive to provide collaborative treatment by connecting with patients and other providers, for any patient that wants this type of support
