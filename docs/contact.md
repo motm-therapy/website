@@ -19,6 +19,8 @@ If we are unable to answer, we will respond to voicemails within one business da
 
 - [123-456-7890](tel:1234567890)
 
+### Emergencies
+
 If you are experiencing a medical emergency, please call [911](tel:911).
 
 If you are experiencing an acute mental health crisis and are unable to immediately reach a provider,
