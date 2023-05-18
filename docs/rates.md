@@ -2,7 +2,7 @@
 
 ## Rates
 
-### Insurance Rate
+### Insurance
 
 Services may be covered in full or in part by your health insurance or employee benefit plan.
 Please check your coverage carefully by asking the following questions:
@@ -18,7 +18,7 @@ Insurances we accept at this time:
 
 - Aetna
 
-### Non-Insurance Rate
+### Non-Insurance
 
 The cash-only rate for clients without insurance is as follows:
 
