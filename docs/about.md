@@ -2,9 +2,12 @@
 
 ## Jasmine
 
-(placeholder) Narrative info about provider
+(headshot here)
 
-### Credentials
+Jasmine is trained in providing trauma-focused treatment using Prolonged Exposure and Cognitive Processing Therapy (CPT).
+She also utilizes Dialectial Behavioral Therapy (DBT), Cognitive Behavioral Therapy (CBT), Acceptance and Commitment Therapy (ACT), Moviational Interviewing (MI), Solution-Focused Therapy (SFT), and Internal Family Systems (IFS).
 
-- (placeholder) TX state license number
-- (placeholder) OCD certication info
+### Certifications
+
+- Exposure Response Prevention (ERP) for Obsessive-Compulsive Disorder (OCD)
+- Body-Focused Repetitive Behaviors (BFRB)
