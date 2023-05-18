@@ -24,6 +24,8 @@ please call the national [988](tel:988) Suicide & Crisis Lifeline.
 
 ## Fax
 
-Paper medical records may be transferred to the practice via fax. Please call to confirm receipt.
+Paper medical records may be transferred to the practice via fax.
 
 - [123-456-7890](tel:1234567890)
+
+Please call to confirm receipt.
