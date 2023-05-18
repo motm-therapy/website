@@ -15,8 +15,6 @@ If we are unable to answer, we will respond to voicemails within one business da
 
 - [123-456-7890](tel:1234567890)
 
-If you are ready to schedule an appointment with a provider, please visit our [services](services.md) page.
-
 If you are experiencing a medical emergency, please call [911](tel:911).
 
 If you are experiencing an acute mental health crisis and are unable to immediately reach a provider,
@@ -29,3 +27,8 @@ Paper medical records may be transferred to the practice via fax.
 - [123-456-7890](tel:1234567890)
 
 Please call to confirm receipt.
+
+## Appointments
+
+If you are ready to schedule an appointment with a provider, please visit our [services](services.md) page.
+
