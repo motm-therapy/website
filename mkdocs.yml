@@ -58,6 +58,9 @@ plugins:
 
 extra:
   social:
+    - icon: fontawesome/solid/phone
+      link: tel:123-456-7890
+      name: Call us
     - icon: fontawesome/solid/paper-plane
       link: mailto:jasmine@motmtherapy.com
       name: Email us
