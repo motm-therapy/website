@@ -8,7 +8,7 @@ If you are ready to schedule an appointment with a provider, please visit our [s
 
 We will respond to requests via email within one business day.
 
-[:fontawesome-solid-building: jasmine@motmtherapy.com :fontawesome-solid-paper-plane: ](mailto:jasmine@motmtherapy.com){ .md-button }
+[:fontawesome-solid-building: :fontawesome-solid-paper-plane: | jasmine@motmtherapy.com ](mailto:jasmine@motmtherapy.com){ .md-button }
 
 
 Electronic medical records may be sent to us from other providers via email. Please call to confirm receipt.
