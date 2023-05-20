@@ -1,6 +1,9 @@
 # Welcome
 
-![Matters of the Mind](assets/logo.png){ height="512" width="512" align="center" loading="lazy" }
+<figure markdown>
+![Matters of the Mind](assets/logo.png){ height="288" width="512" loading="lazy" }
+  <figcaption>Matters of the Mind</figcaption>
+</figure>
 
 ## Mission
 
