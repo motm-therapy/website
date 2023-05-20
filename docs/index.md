@@ -4,7 +4,7 @@
 
 The mission of Matters of the Mind Therapy, LLC is:
 
-- Provide comprehensive behavioral health, education, and prevention services to every patient interested using evidence-based therapy techniques
+- Provide comprehensive behavioral health, education, and prevention services to patients interested in treatment using evidence-based psychotherapy techniques
 
 ## Vision
 
