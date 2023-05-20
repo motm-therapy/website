@@ -64,7 +64,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:jasmine@motmtherapy.com
       name: Email us
-    - icon: motm/monarch
+    - icon: material/butterfly
       link: https://meetmonarch.com
       name: Check us out on Monarch
     - icon: fontawesome/solid/brain
