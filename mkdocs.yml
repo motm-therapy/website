@@ -7,15 +7,15 @@ theme:
   font:
     text: Comfortaa
   palette:
-    # Palette toggle for light mode
     - scheme: default
+      media: "(prefers-color-scheme: light)"
       primary: custom
       accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-    # Palette toggle for dark mode
     - scheme: slate
+      media: "(prefers-color-scheme: dark)"
       primary: custom
       accent: teal
       toggle:
