@@ -1,6 +1,6 @@
 # Welcome
 
-![Matters of the Mind](assets/logo.png){ width="300" }
+![Matters of the Mind](assets/logo.png){ height="256" width="512" }
 
 ## Mission
 
