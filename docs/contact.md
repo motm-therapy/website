@@ -21,10 +21,14 @@ If we are unable to answer, we will respond to voicemails within one business da
 
 ### Emergencies
 
-If you are experiencing a medical emergency, please call [911](tel:911).
+If you are experiencing a medical emergency, please call:
+
+- [911](tel:911).
 
 If you are experiencing an acute mental health crisis and are unable to immediately reach a provider,
-please call the national [988](tel:988) Suicide & Crisis Lifeline.
+please call:
+
+- National [988](tel:988) Suicide & Crisis Lifeline
 
 ## Fax
 
