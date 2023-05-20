@@ -21,15 +21,15 @@ We will respond to requests via email within one business day.
 
 [jasmine@motmtherapy.com](mailto:jasmine@motmtherapy.com){ .md-button }
 
-
 Electronic medical records may be sent to us from other providers via email. Please call to confirm receipt.
 
 ## :fontawesome-solid-phone: Phone
 
 Please call and leave a voicemail if you have questions about the practice, providers, or our services.
-If we are unable to answer, we will respond to voicemails within one business day.
 
 [123-456-7890](tel:1234567890){ .md-button }
+
+If we are unable to answer, we will respond to voicemails within one business day.
 
 ## :fontawesome-solid-fax: Fax
 
