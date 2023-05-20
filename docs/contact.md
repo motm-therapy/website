@@ -8,7 +8,7 @@ If you are ready to schedule an appointment with a provider, please visit our [s
 
 We will respond to requests via email within one business day.
 
-[:fontawesome-solid-paper-plane:  jasmine@motmtherapy.com](mailto:jasmine@motmtherapy.com){ .md-button }
+[:fontawesome-solid-building: :fontawesome-solid-paper-plane:  jasmine@motmtherapy.com](mailto:jasmine@motmtherapy.com){ .md-button }
 
 
 Electronic medical records may be sent to us from other providers via email. Please call to confirm receipt.
@@ -18,7 +18,7 @@ Electronic medical records may be sent to us from other providers via email. Ple
 Please call and leave a voicemail if you have questions about the practice, providers, or our services.
 If we are unable to answer, we will respond to voicemails within one business day.
 
-[:fontawesome-solid-phone:  123-456-7890](tel:1234567890){ .md-button }
+[:fontawesome-solid-building: :fontawesome-solid-phone:  123-456-7890](tel:1234567890){ .md-button }
 
 ### Emergencies
 
@@ -35,6 +35,6 @@ please call:
 
 Paper medical records may be transferred to the practice via fax.
 
-[:fontawesome-solid-fax:  123-456-7890 ](tel:1234567890){ .md-button }
+[:fontawesome-solid-building: :fontawesome-solid-fax:  123-456-7890 ](tel:1234567890){ .md-button }
 
 Please call to confirm receipt.
