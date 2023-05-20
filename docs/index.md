@@ -15,7 +15,7 @@ Provide comprehensive behavioral health, education, and prevention services to p
 
 Uphold moral and ethical principles in our daily practice and in delivery of services. Provide care in a manner that honors our professional codes and standards. Stay current on the latest known best practices and treatment options used in our sessions.
 
-### Holistic Approach
+### Integrative Approach
 
 Help patients learn what works for them, and what does not work for them, and then use a strengths-based approach to treatment.
 Advocate for our patients and believe that every patient comes into therapy trying to do their best.
