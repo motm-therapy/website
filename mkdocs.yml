@@ -63,9 +63,12 @@ extra:
     - icon: material/butterfly
       link: https://meetmonarch.com
       name: Check us out on Monarch
-    - icon: material/head-sync
+    - icon: fontawesome/solid/brain
       link: https://psychologytoday.com
       name: Check us out on Psychology Today
+    - icon: fontawesome/brands/linkedin-in
+      link: https://linkedin.com/
+      name: Check us out on LinkedIn
     - icon: fontawesome/brands/gitlab
       link: https://gitlab.com/motm-therapy/
       name: Check us out on Gitlab
