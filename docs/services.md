@@ -31,6 +31,6 @@ Please review our list of methods and specialities to see if our practice is a g
 
 - Body-Focused Repetitive Behaviors (BFRB)
 - Obsessive Compulsive Disorder (OCD)
-- All personality disorders
-- Trauma
-- Multiple disorders that include at least one of the above
+- [Personality Disorders](https://www.psychiatry.org/patients-families/personality-disorders/what-are-personality-disorders)
+- [Trauma](https://www.psychologytoday.com/us/basics/trauma)-Related Disorders
+- Multiple disorders (that include at least one of the above)
