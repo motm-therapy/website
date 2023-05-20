@@ -9,11 +9,11 @@ Please review our list of methods and specialities to see if our practice is a g
 
 ### New Patients
 
-- [Schedule an Intake Appointment](https://google.com)
+- [Schedule an Intake Appointment](https://google.com){ .md-button }
 
 ### Existing Patients
 
-- [Contact Your Provider](about.md)
+- [Contact Your Provider](about.md){ .md-button }
 
 ## Methods
 
