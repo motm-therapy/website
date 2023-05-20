@@ -7,13 +7,9 @@
 
 ## Mission
 
-The mission of Matters of the Mind Therapy, LLC is:
-
 - Provide comprehensive behavioral health, education, and prevention services to patients interested in treatment using evidence-based psychotherapy techniques
 
 ## Vision
-
-The vision of Matters of the Mind Therapy, LLC is:
 
 - Appreciate and respect the diversity and cultural differences of our patients and take into account the many multi-dimensional aspects of their lives
 - Recognize and preserve culture by providing care that takes and supports, not replaces, cultural identity
