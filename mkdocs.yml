@@ -60,15 +60,15 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:jasmine@motmtherapy.com
       name: Email us
-    - icon: fontawesome/brands/gitlab
-      link: https://gitlab.com/motmtherapy/
-      name: Check us out on Gitlab
     - icon: material/butterfly
       link: https://simplepractice.com
       name: Check us out on SimplePractice
     - icon: material/head-sync
       link: https://psychologytoday.com
       name: Check us out on Psychology Today
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/motmtherapy/
+      name: Check us out on Gitlab
 
 ...
 
