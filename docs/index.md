@@ -1,5 +1,7 @@
 # Welcome
 
+![Matters of the Mind](assets/logo.png){ width="300" }
+
 ## Mission
 
 The mission of Matters of the Mind Therapy, LLC is:
