@@ -24,12 +24,12 @@ If we are unable to answer, we will respond to voicemails within one business da
 
 If you are experiencing a medical emergency, please call:
 
-[National 911 System :fontawesome-solid-phone:](tel:911){ .md-button }
+[National 911 System :fontawesome-solid-circle-exclamation: :fontawesome-solid-phone:](tel:911){ .md-button }
 
 If you are experiencing an acute mental health crisis and are unable to immediately reach a provider,
 please call:
 
-[National 988 Suicide & Crisis Lifeline :fontawesome-solid-phone:](tel:988){ .md-button }
+[National 988 Suicide & Crisis Lifeline :fontawesome-solid-circle-exclamation: :fontawesome-solid-phone:](tel:988){ .md-button }
 
 ## Fax
 
