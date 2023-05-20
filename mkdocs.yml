@@ -64,7 +64,7 @@ extra:
     - icon: material/butterfly
       link: https://meetmonarch.com
       name: Check us out on Monarch
-    - icon: fontawesome/solid/brain
+    - icon: motm/psychologytoday.svg
       link: https://psychologytoday.com
       name: Check us out on Psychology Today
     - icon: fontawesome/brands/linkedin-in
