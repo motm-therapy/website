@@ -67,7 +67,7 @@ extra:
       link: https://psychologytoday.com
       name: Check us out on Psychology Today
     - icon: fontawesome/brands/gitlab
-      link: https://gitlab.com/motmtherapy/
+      link: https://gitlab.com/motm-therapy/
       name: Check us out on Gitlab
 
 ...
