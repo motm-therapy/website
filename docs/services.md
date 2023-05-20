@@ -33,4 +33,6 @@ Please review our list of methods and specialities to see if our practice is a g
 - [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder)
 - [Personality Disorders](https://www.psychiatry.org/patients-families/personality-disorders/what-are-personality-disorders)
 - [Trauma-Related Disorders](https://www.psychologytoday.com/us/basics/trauma)
-- Multiple disorders (that include at least one of the above)
+
+We also specialize in providing treatment for individuals with multiple disorders,
+especially if they include at least one of the disorder types above.
