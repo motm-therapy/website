@@ -66,6 +66,9 @@ extra:
     - icon: material/butterfly
       link: https://meetmonarch.com
       name: Check us out on Monarch
+    - icon: simple/academia
+      link: https://secure.helloalma.com/providers/jasmine-scott-cochran/
+      name: Check us out on Alma
     - icon: fontawesome/solid/brain
       link: https://psychologytoday.com
       name: Check us out on Psychology Today
