@@ -63,7 +63,7 @@ extra:
     - icon: fontawesome/brands/gitlab
       link: https://gitlab.com/motmtherapy/
       name: Check us out on Gitlab
-    - icon: butterfly
+    - icon: material/butterfly
       link: https://simplepractice.com
       name: Check us out on SimplePractice
 
