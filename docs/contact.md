@@ -23,7 +23,7 @@ If we are unable to answer, we will respond to voicemails within one business da
 
 If you are experiencing a medical emergency, please call:
 
-- The National [911](tel:911) System
+- National [911](tel:911) System
 
 If you are experiencing an acute mental health crisis and are unable to immediately reach a provider,
 please call:
