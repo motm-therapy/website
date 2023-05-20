@@ -33,6 +33,7 @@ theme:
     - toc.follow
     - toc.integrate
     - navigation.top
+    - navigation.footer
 
 markdown_extensions:
   - md_in_html
