@@ -59,7 +59,10 @@ extra:
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:jasmine@motmtherapy.com
-      name: email us
+      name: Email us
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/motmtherapy/
+      name: Check us out on Gitlab
 
 ...
 
