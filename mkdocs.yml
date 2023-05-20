@@ -10,14 +10,14 @@ theme:
     # Palette toggle for light mode
     - scheme: default
       primary: custom
-      accent: green
+      accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
       primary: custom
-      accent: green
+      accent: teal
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
