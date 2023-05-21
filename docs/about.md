@@ -7,7 +7,7 @@ Our providers are licensed to serve clients in the state of Texas.
 
 ## Providers
 
-### Jasmine
+### Jasmine Scott-Cochran
 
 (headshot here)
 
