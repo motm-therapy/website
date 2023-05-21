@@ -9,7 +9,7 @@ Please review our provider list below to find a provider licensed to operate in 
 
 ### In Person
 
-Matters of the Mind Therapy, LLC is in the process of acquiring office space for in person sessions in San Antonio, TX.
+Matters of the Mind Therapy, LLC is in the process of acquiring office space for in person sessions in/near San Antonio, TX.
 
 ## Providers
 
