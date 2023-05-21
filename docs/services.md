@@ -1,8 +1,10 @@
 # Our Services
 
-## Clients Served
+We provide out-patient treatment for individuals and couples.
 
-Here at Matters of the Mind Therapy LLC, we provide out-patient treatment for individuals and couples.
+Initial intake session appointments are ninety (90) minutes. Subsequent session appointments are fifty (60) minutes.
+
+## Clients Served
 
 We see anyone _**ages 13 and up**_.
 
