@@ -20,10 +20,12 @@ Our providers are licensed to serve clients in the state of Texas.
 #### Memberships
 
 - [International OCD Foundation](https://iocdf.org/providers/scott-cochran-jasmine-d/)
+- [Licensed Professional Counselor (LPC)](https://vo.licensing.hpc.texas.gov/datamart/searchByName.do) in the State of Texas (License No. 83366)
+- [National Certified Counselor (NCC)](1140314) (License No. 1140314) by the National Board of Certified Counselors (NBCC)
 
 #### Certifications
 
-- Exposure & Response Prevention (ERP) from the [Behavioral Therapy Training Institute (BTTI)](https://iocdf.org/professionals/training-institute/btti/)
+- Exposure & Response Prevention (ERP) Therapy from the [Behavioral Therapy Training Institute (BTTI)](https://iocdf.org/professionals/training-institute/btti/)
 
 #### Methods
 
