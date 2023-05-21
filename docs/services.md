@@ -22,4 +22,4 @@ Please review the provider information on our [About](about.md) page to see if a
 
 ### Existing Patients
 
-[Contact Your Provider](about.md){ .md-button }
+[Contact Your Provider](contact.md){ .md-button }
