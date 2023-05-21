@@ -2,7 +2,7 @@
 
 ## Location
 
-Our providers are licensed by state boards to serve clients via telehealth or in person sessions.
+Our providers are licensed by state boards to serve clients via telehealth or in person psychotherapy sessions.
 
 ### Telehealth
 
