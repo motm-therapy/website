@@ -7,6 +7,10 @@
 Our providers are licensed to serve clients via telehealth residing in the state of Texas.
 Please review our provider list below to find a provider licensed to operate in your state of residence.
 
+### In Person
+
+Matters of the Mind Therapy, LLC is in the process of acquiring office space for in person sessions in San Antonio, TX.
+
 ## Providers
 
 ### Jasmine Scott-Cochran
