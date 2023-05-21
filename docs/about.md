@@ -2,8 +2,10 @@
 
 ## Location
 
-Matters of the Mind Therapy, LLC is currently a telehealth-only practice.
-Our providers are licensed to serve clients in the state of Texas.
+### Telehealth
+
+Our providers are licensed to serve clients via telehealth residing in the state of Texas.
+Please review our provider list below to find a provider licensed to operate in your state of residence.
 
 ## Providers
 
