@@ -2,9 +2,10 @@
 
 ## Location
 
+Our providers are licensed by state boards to serve clients via telehealth or in person sessions.
+
 ### Telehealth
 
-Our providers are licensed by state boards to serve clients via telehealth or in person sessions.
 Please review our provider list below to find a provider licensed to operate in your state of residence.
 
 ### In Person
