@@ -13,28 +13,34 @@ please call:
 
 ## :fontawesome-regular-calendar-days: Appointments
 
-If you are ready to schedule an appointment with a provider, please visit our [services](services.md) page.
+### New Patients
+
+[Jasmine Scott-Cochran (90 minutes)](https://google.com){ .md-button }
+
+### Existing Patients
+
+[Jasmine Scott-Cochran (60 minutes)](https://google.com){ .md-button }
 
 ## :fontawesome-solid-paper-plane: Email 
 
-We will respond to requests via email within one business day.
+Providers will respond to requests via email within one business day.
 
-[jasmine@motmtherapy.com](mailto:jasmine@motmtherapy.com){ .md-button }
+[Jasmine Scott-Cochran (jasmine@motmtherapy.com)](mailto:jasmine@motmtherapy.com){ .md-button }
 
 Electronic medical records may be sent to us from other providers via email. Please call to confirm receipt.
 
 ## :fontawesome-solid-phone: Phone
 
-Please call and leave a voicemail if you have questions about the practice, providers, or our services.
+Please call and leave a voicemail with a provider if you have questions about the services they offer.
 
-[123-456-7890](tel:1234567890){ .md-button }
+[Jasmine Scott-Cochran (123-456-7890)](tel:1234567890){ .md-button }
 
-If we are unable to answer, we will respond to voicemails within one business day.
+If they are unable to answer, they will respond to voicemails within one business day.
 
 ## :fontawesome-solid-fax: Fax
 
 Paper medical records may be transferred to the practice via fax.
 
-[123-456-7890](tel:1234567890){ .md-button }
+[Matters of the Mind Therapy (123-456-7890)](tel:1234567890){ .md-button }
 
-Please call to confirm receipt.
+Please call your provider to confirm receipt.
