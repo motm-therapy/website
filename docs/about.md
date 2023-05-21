@@ -4,7 +4,7 @@
 
 ### Telehealth
 
-Our providers are licensed to serve clients via telehealth residing in the state of Texas.
+Our providers are licensed by state boards to serve clients via telehealth or in-person sessions.
 Please review our provider list below to find a provider licensed to operate in your state of residence.
 
 ### In Person
