@@ -14,4 +14,4 @@ We see clients regardless of race, sexual orientation, gender identity, religion
 
 Please review the provider information on our [About](about.md) page to see if any of our providers are a good fit for you.
 
-Please visit our [Contact](contact.md) once you are ready to schedule an appointment.
+Please visit our [Contact](contact.md) page once you are ready to schedule an appointment.
