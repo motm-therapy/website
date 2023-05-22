@@ -27,6 +27,7 @@ We are acquiring office space somewhere in North Central San Antonio for in-pers
 (bio here)
 
 [Initial Session (90 minutes)](https://google.com){ .md-button }
+
 [Subsequent Session (60 minutes)](https://google.com){ .md-button }
 
 #### Education
