@@ -1,17 +1,16 @@
+
 # Our Services
 
-We provide out-patient psychotherapy treatment sessions for individuals and couples.
+We provide out-patient psychotherapy sessions for individuals and couples.
 
-Initial intake session appointments are ninety (90) minutes.
+We also provide testing services for clients referred to us by a psychologist.
 
-Subsequent session appointments are sixty (60) minutes.
+Initial psychotherapy intake session appointments are ninety (90) minutes.
 
-## Clients Served
+Subsequent psychotherapy session appointments are sixty (60) minutes.
 
 We see anyone _**ages 13 and up**_.
 
 We see clients regardless of race, sexual orientation, gender identity, religion, or political leanings.
 
-Please review the provider information on our [About](about.md) page to see if any of our providers are a good fit for you.
-
-Please visit our [Contact](contact.md) page once you are ready to schedule an appointment.
+Please review the provider information on our [Providers](providers.md) page to see if any of our providers are a good fit for you.
