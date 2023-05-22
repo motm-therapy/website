@@ -15,9 +15,13 @@ please call:
 
 ### New Patients
 
+New patients interested in indivdual or couples psychotherapy sessions, should use this option.
+
 [Jasmine Scott-Cochran (90 minutes)](https://google.com){ .md-button }
 
 ### Existing Patients
+
+Existing patients interested in indivdual or couples psychotherapy sessions, should use this option.
 
 [Jasmine Scott-Cochran (60 minutes)](https://google.com){ .md-button }
 
