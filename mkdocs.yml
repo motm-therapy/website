@@ -52,7 +52,7 @@ nav:
   - Welcome: "index.md"
   - Location: "location.md"
   - Services: "services.md"
-  - Providers: "providers.md"
+  - Providers:
     - Jasmine: "jasmine.md"
   - Rates: "rates.md"
   - Appointments: "appointments.md"
