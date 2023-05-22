@@ -4,12 +4,14 @@
 
 If you are experiencing a medical emergency, please call:
 
-[National 911 System](tel:911){ .md-button }
+[National 911 System<br>
+(911)](tel:911){ .md-button }
 
 If you are experiencing an acute mental health crisis and are unable to immediately reach a provider,
 please call:
 
-[National 988 Suicide & Crisis Lifeline](tel:988){ .md-button }
+[National 988 Suicide & Crisis Lifeline<br>
+(988)](tel:988){ .md-button }
 
 ## :fontawesome-solid-paper-plane: Email 
 
