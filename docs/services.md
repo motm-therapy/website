@@ -1,6 +1,6 @@
 # Our Services
 
-We provide out-patient psychotherapy sessions for individuals and couples.
+We provide out-patient psychotherapy services for individuals and couples.
 
 Initial psychotherapy intake session appointments are ninety (90) minutes.
 Subsequent psychotherapy session appointments are sixty (60) minutes.
