@@ -51,6 +51,7 @@ extra_css:
 nav:
   - Welcome: "index.md"
   - Location: "location.md"
+  - Services: "services.md"
   - Providers: "providers.md"
   - Rates: "rates.md"
   - Appointments: "appointments.md"
