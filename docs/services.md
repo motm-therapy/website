@@ -1,4 +1,4 @@
-# Our Services
+# Services
 
 We provide out-patient psychotherapy services for individuals and couples.
 
