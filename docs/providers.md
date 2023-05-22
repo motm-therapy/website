@@ -6,12 +6,6 @@
 
 (bio here)
 
-[Psychotherapy, New Client (90 minutes)](https://google.com){ .md-button }
-
-[Psychotherpay, Existing Client (60 minutes)](https://google.com){ .md-button }
-
-[Testing Referral (XX minutes)](https://google.com){ .md-button }
-
 ### Education
 
 - Master of Science (MS) in Clinical Mental Health Counseling from the University of Texas San Antonio (UTSA)
