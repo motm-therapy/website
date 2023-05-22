@@ -53,6 +53,7 @@ nav:
   - Location: "location.md"
   - Services: "services.md"
   - Providers: "providers.md"
+    - Jasmine: "jasmine.md"
   - Rates: "rates.md"
   - Appointments: "appointments.md"
   - Contact: "contact.md"
