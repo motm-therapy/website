@@ -45,7 +45,7 @@ Please call and leave a voicemail with the practice if you have any questions.
 
 [Matters of the Mind Therapy (123-456-7890)](tel:1234567890){ .md-button }
 
-If they are unable to answer, they will respond to voicemails within one business day.
+If we are unable to answer, please leave a voicemail. We will respond to voicemails within one business day.
 
 ## :fontawesome-solid-fax: Fax
 
