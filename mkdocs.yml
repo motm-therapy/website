@@ -50,9 +50,10 @@ extra_css:
 
 nav:
   - Welcome: "index.md"
-  - About: "about.md"
-  - Services: "services.md"
+  - Location: "location.md"
+  - Providers: "providers.md"
   - Rates: "rates.md"
+  - Appointments: "appointments md"
   - Contact: "contact.md"
 
 plugins:
