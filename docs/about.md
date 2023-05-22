@@ -20,6 +20,9 @@ Matters of the Mind Therapy, LLC is in the process of acquiring office space for
 
 (bio here)
 
+[Jasmine Scott-Cochran (90 minutes)](https://google.com){ .md-button }
+[Jasmine Scott-Cochran (60 minutes)](https://google.com){ .md-button }
+
 #### Education
 
 - Master of Science (MS) in Clinical Mental Health Counseling from the University of Texas San Antonio (UTSA)
