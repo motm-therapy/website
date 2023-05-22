@@ -43,7 +43,7 @@ Electronic medical records may be sent to us from other providers via email. Ple
 
 Please call and leave a voicemail with a provider if you have questions about the services they offer.
 
-[Jasmine Scott-Cochran (123-456-7890)](tel:1234567890){ .md-button }
+[Matters of the Mind Therapy (123-456-7890)](tel:1234567890){ .md-button }
 
 If they are unable to answer, they will respond to voicemails within one business day.
 
