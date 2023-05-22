@@ -4,7 +4,7 @@ Our providers are licensed by state boards to serve clients via telehealth or in
 
 ## Telehealth
 
-Please review our [Providers](providers.md) list to find a provider licensed to operate in your state of residence.
+Please review our [Providers](providers.md) page to find a provider licensed to operate in your state of residence.
 
 ## In Person
 
