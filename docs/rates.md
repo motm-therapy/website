@@ -1,4 +1,4 @@
-# Our Rates and Fees
+# Rates and Fees
 
 ## Rates
 
