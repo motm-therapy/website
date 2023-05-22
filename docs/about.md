@@ -26,9 +26,11 @@ We are acquiring office space somewhere in North Central San Antonio for in-pers
 
 (bio here)
 
-[Initial Session (90 minutes)](https://google.com){ .md-button }
+[Psychotherapy, New Client (90 minutes)](https://google.com){ .md-button }
 
-[Subsequent Session (60 minutes)](https://google.com){ .md-button }
+[Psychotherpay, Existing Client (60 minutes)](https://google.com){ .md-button }
+
+[Testing Referral (XX minutes)](https://google.com){ .md-button }
 
 #### Education
 
