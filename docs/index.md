@@ -1,11 +1,9 @@
 # Welcome
 
-<div class="motm-banner">
-  <figure markdown>
-  ![Matters of the Mind](assets/logo.png){ height="288" width="512" loading="lazy" }
-    <figcaption></figcaption>
-  </figure>
-</div>
+<figure markdown>
+![Matters of the Mind](assets/logo.png){ height="288" width="512" loading="lazy" }
+  <figcaption></figcaption>
+</figure>
 
 ## Mission
 
