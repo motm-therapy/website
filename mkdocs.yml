@@ -50,11 +50,12 @@ extra_css:
 
 nav:
   - Welcome: "index.md"
-  - Location: "location.md"
-  - Services: "services.md"
+  - About:
+    - Location: "location.md"
+    - Services: "services.md"
+    - Rates: "rates.md"
   - Providers:
     - Jasmine: "jasmine.md"
-  - Rates: "rates.md"
   - Appointments: "appointments.md"
   - Contact: "contact.md"
 
