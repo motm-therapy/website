@@ -1,5 +1,6 @@
 # Providers
 
-All of our providers are licensed by the National Board of Certified Counselors (NBCC) as well as by the states in which they operate.
-
-- [Jasmine Scott-Cochran](jasmine.md)
+<figure markdown>
+![Jasmin]](assets/user-silhouette-icon-9.png){ height="256" width="256" loading="lazy" }
+  <figcaption>[Jasmine Scott-Cochran](jasmine.md)</figcaption>
+  </figure>
