@@ -1,13 +1,12 @@
-
 # Our Services
 
 We provide out-patient psychotherapy sessions for individuals and couples.
 
-We also provide testing services for clients referred to us by a psychologist.
-
 Initial psychotherapy intake session appointments are ninety (90) minutes.
 
 Subsequent psychotherapy session appointments are sixty (60) minutes.
+
+We also provide testing services for clients referred to us by psychologists.
 
 We see anyone _**ages 13 and up**_.
 
