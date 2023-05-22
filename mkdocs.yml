@@ -30,6 +30,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.indexes
+    - navigation.tabs.sticky
     - toc.follow
     - toc.integrate
     - navigation.top
@@ -54,8 +55,9 @@ nav:
     - Location: "location.md"
     - Services: "services.md"
     - Rates: "rates.md"
-  - Providers: "providers.md"
-    - 'Jasmine Scott-Cochran': "jasmine.md"
+  - Providers:
+    - "providers/index.md"
+    - 'Jasmine Scott-Cochran': "providers/jasmine.md"
   - Appointments: "appointments.md"
   - Contact: "contact.md"
 
