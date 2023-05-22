@@ -54,7 +54,7 @@ nav:
     - Location: "location.md"
     - Services: "services.md"
     - Rates: "rates.md"
-  - Providers:
+  - Providers: "providers.md"
     - Jasmine: "jasmine.md"
   - Appointments: "appointments.md"
   - Contact: "contact.md"
