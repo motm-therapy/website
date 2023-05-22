@@ -15,7 +15,7 @@ please call:
 
 Providers will respond to requests via email within one business day.
 
-[Jasmine Scott-Cochran (jasmine@motmtherapy.com)](mailto:jasmine@motmtherapy.com){ .md-button }
+[Jasmine Scott-Cochran<br> (jasmine@motmtherapy.com)](mailto:jasmine@motmtherapy.com){ .md-button }
 
 Electronic medical records may be sent to us from other providers via email. Please call to confirm receipt.
 
@@ -31,6 +31,6 @@ If we are unable to answer, please leave a voicemail. We will respond to voicema
 
 Paper medical records may be transferred to the practice via fax.
 
-[Matters of the Mind Therapy (123-456-7890)](tel:1234567890){ .md-button }
+[Matters of the Mind Therapy<br>(123-456-7890)](tel:1234567890){ .md-button }
 
 Please call your provider to confirm receipt.
