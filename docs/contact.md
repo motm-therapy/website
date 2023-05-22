@@ -41,7 +41,7 @@ Electronic medical records may be sent to us from other providers via email. Ple
 
 ## :fontawesome-solid-phone: Phone
 
-Please call and leave a voicemail with a provider if you have questions about the services they offer.
+Please call and leave a voicemail with the practice if you have any questions.
 
 [Matters of the Mind Therapy (123-456-7890)](tel:1234567890){ .md-button }
 
