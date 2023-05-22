@@ -10,6 +10,8 @@ Please review our provider list below to find a provider licensed to operate in 
 
 ### In Person
 
+#### San Antonio, TX
+
 We are in the process of acquiring office space somewhere near the 1604/281 intersection for in-person sessions in San Antonio, TX.
 
 <div class="google-map">
