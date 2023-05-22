@@ -24,8 +24,8 @@ Matters of the Mind Therapy, LLC is in the process of acquiring office space for
 
 (bio here)
 
-[Jasmine Scott-Cochran (90 minutes)](https://google.com){ .md-button }
-[Jasmine Scott-Cochran (60 minutes)](https://google.com){ .md-button }
+[Initial Intake (90 minutes)](https://google.com){ .md-button }
+[Regular Session (60 minutes)](https://google.com){ .md-button }
 
 #### Education
 
