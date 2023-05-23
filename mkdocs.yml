@@ -52,7 +52,7 @@ extra_css:
 nav:
   - Welcome: "index.md"
   - About:
-  - Services: "services.md"
+    - Services: "services.md"
     - Location: "location.md"
     - 'Rates & Fees': "rates.md"
   - Providers:
