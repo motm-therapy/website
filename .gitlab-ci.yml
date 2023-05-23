@@ -1,7 +1,16 @@
 ---
 stages:
+  - add-timestamp
   - preview-stage
   - deploy-stage
+
+timestamp:
+  stage: add-timestamp
+  image:
+    name: bash:5
+    entrypoint: ["bin/bash", "-c"]
+  script:
+    - ./timestamp.sh
 
 pages:preview:
   stage: preview-stage
