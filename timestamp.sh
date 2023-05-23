@@ -2,7 +2,7 @@
 
 timestamp="$CI_COMMIT_TIMESTAMP"
 if [[ "${timestamp}" == "" ]]; then timestamp="$(date --iso-8601=seconds)"; fi
-copyright_string="copyright: Copyright &copy; 2023 Matters of the Mind Therapy, LLC | Last updated: ${timestamp}"
+copyright_string="copyright: \"Copyright &copy; 2023 Matters of the Mind Therapy, LLC | Last updated: ${timestamp}\""
 echo "[INFO] Replacing previous copyright line in mkdocs.yml with:"
 echo "       ${copyright_string}"
 while IFS=$'\n' read -r line; do
