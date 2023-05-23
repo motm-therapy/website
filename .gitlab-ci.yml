@@ -10,6 +10,7 @@ timestamp:
     name: bash:5
     entrypoint: ["/bin/sh", "-c"]
   script:
+    - chmod +x ./timestamp.sh
     - ./timestamp.sh
 
 pages:preview:
