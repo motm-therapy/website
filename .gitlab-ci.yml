@@ -12,6 +12,9 @@ timestamp:
   script:
     - chmod +x ./timestamp.sh
     - ./timestamp.sh
+  artifacts:
+    paths:
+      - mkdocs.yml
 
 pages:preview:
   stage: preview-stage
