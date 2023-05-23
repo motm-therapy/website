@@ -7,9 +7,6 @@ stages:
   image:
     name: squidfunk/mkdocs-material:9.1.4
     entrypoint: ["/bin/sh", "-c"]
-  variables:
-    TZ: America/Chicago
-    GIT_DEPTH: 0
   script:
     - apk add bash
     - chmod +x ./timestamp.sh
