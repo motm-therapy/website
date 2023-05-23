@@ -30,9 +30,7 @@ pages:
     name: squidfunk/mkdocs-material:9.1.4
     entrypoint: ["/bin/sh", "-c"]
   script:
-    - apk add bash
-    - chmod +x ./timestamp.sh
-    - ./timestamp.sh
+    - pip install mkdocs-git-revision-date-localized-plugin
     - mkdocs build --strict --verbose --site-dir public
   artifacts:
     paths:
