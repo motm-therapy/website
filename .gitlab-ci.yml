@@ -8,7 +8,7 @@ timestamp:
   stage: add-timestamp
   image:
     name: bash:5
-    entrypoint: ["bin/bash", "-c"]
+    entrypoint: ["/bin/sh", "-c"]
   script:
     - ./timestamp.sh
 
