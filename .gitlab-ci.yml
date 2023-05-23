@@ -3,8 +3,7 @@ stages:
   - preview-stage
   - deploy-stage
 
-pages:preview:
-  stage: preview-stage
+.job_template:
   image:
     name: squidfunk/mkdocs-material:9.1.4
     entrypoint: ["/bin/sh", "-c"]
@@ -12,10 +11,16 @@ pages:preview:
     - apk add bash
     - chmod +x ./timestamp.sh
     - ./timestamp.sh
+    - pip install mkdocs-git-revision-date-localized-plugin
     - mkdocs build --strict --verbose --site-dir public
   artifacts:
     paths:
       - public
+   
+pages:preview:
+  stage: preview-stage
+  extends:
+    - .job_template
   rules:
     - if: $CI_PIPELINE_SOURCE != "merge_request_event"
       when: never
@@ -26,14 +31,7 @@ pages:preview:
 
 pages:
   stage: deploy-stage
-  image:
-    name: squidfunk/mkdocs-material:9.1.4
-    entrypoint: ["/bin/sh", "-c"]
-  script:
-    - pip install mkdocs-git-revision-date-localized-plugin
-    - mkdocs build --strict --verbose --site-dir public
-  artifacts:
-    paths:
-      - public
+  extends:
+    - .job_template
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
