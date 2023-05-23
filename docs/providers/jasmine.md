@@ -1,11 +1,15 @@
 # Jasmine Scott-Cochran
 
 <figure markdown>
-![Jasmine Scott-Cochran](assets/provider.jpg){ height="256" width="256" loading="lazy" }
-<figcaption markdown></figcaption>
+  ![Jasmine Scott-Cochran](assets/provider.jpg){ height="256" width="256" loading="lazy" }
+  <figcaption>
+    Jasmine Scott-Cochran, MS, NCC, LPC
+  </figcaption>
 </figure>
 
-(bio here)
+Jasmine has worked in the field of psychology for nearly 20 years. She has wide-ranging experience working in multiple settings including: several adolescent residental treatment facilities like the [New Life Children's Center](https://upbring.org/new-life-childrens-center/), treatment programs for the neurodivergent like the [Autism Treatment Center of San Antonio](https://www.atcoftexas.org/san-antonio.html), psychiatric hospitals like the [Alaska Psychiatric Institute](https://dfcs.alaska.gov/api/Pages/default.aspx), integrative behavioral healthcare facilities like the [UT Health - Robert B. Green Campus](https://www.uthscsa.edu/patient-care/physicians/location/Robert-B-Green-Campus-Downtown), and private practice.
+
+As your counselor, Jasmine will use her rich behavioral-focused and integrative healthcare backgrounds to inform her therapeutic approach. She will work with you to create a strengths-based, goal-oriented, treatment program that is specialized to meet your individual needs.
 
 ## Education
 
