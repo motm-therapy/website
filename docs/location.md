@@ -1,10 +1,10 @@
 # Location
 
-Our providers are licensed by state boards to serve clients via telehealth or in-person psychotherapy sessions.
 
 ## Telehealth
 
-Please review our [Providers](providers/index.md) page to find a provider licensed to operate in your state of residence.
+All our providers are licensed by state boards to serve clients via telehealth or in-person psychotherapy sessions,
+Clients must reside within a state that the therapist is licensed to provide services in.
 
 ## In Person
 
