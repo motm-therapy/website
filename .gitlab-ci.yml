@@ -1,20 +1,7 @@
 ---
 stages:
-  - add-timestamp
   - preview-stage
   - deploy-stage
-
-timestamp:
-  stage: add-timestamp
-  image:
-    name: bash:5
-    entrypoint: ["/bin/sh", "-c"]
-  script:
-    - chmod +x ./timestamp.sh
-    - ./timestamp.sh
-  artifacts:
-    paths:
-      - mkdocs.yml
 
 pages:preview:
   stage: preview-stage
@@ -22,6 +9,8 @@ pages:preview:
     name: squidfunk/mkdocs-material:9.1.4
     entrypoint: ["/bin/sh", "-c"]
   script:
+    - chmod +x ./timestamp.sh
+    - ./timestamp.sh
     - mkdocs build --strict --verbose --site-dir public
   artifacts:
     paths:
@@ -40,6 +29,8 @@ pages:
     name: squidfunk/mkdocs-material:9.1.4
     entrypoint: ["/bin/sh", "-c"]
   script:
+    - chmod +x ./timestamp.sh
+    - ./timestamp.sh
     - mkdocs build --strict --verbose --site-dir public
   artifacts:
     paths:
