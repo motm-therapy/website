@@ -11,11 +11,9 @@ stages:
     TZ: America/Chicago
     GIT_DEPTH: 0
   script:
-    - apk add bash tzdata
-    - cp /usr/share/zoneinfo/America/Chicago /etc/localtime
+    - apk add bash
     - chmod +x ./timestamp.sh
     - ./timestamp.sh
-    - pip install mkdocs-git-revision-date-localized-plugin
     - mkdocs build --strict --verbose --site-dir public
   artifacts:
     paths:
