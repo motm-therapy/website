@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 
-timestamp="$CI_COMMIT_TIMESTAMP"
-if [[ "${timestamp}" == "" ]]; then timestamp="$(date --rfc-3339=seconds)"; fi
+timestamp="$(date -Iseconds)"
 
 # This string replaces the "copyright:" line in the config file at website build time
 copyright_string="copyright: \"Copyright &copy; 2023 Matters of the Mind Therapy, LLC<br>Last Site Update: ${timestamp}\""
