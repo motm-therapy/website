@@ -9,6 +9,7 @@ stages:
     entrypoint: ["/bin/sh", "-c"]
   variables:
     TZ: America/Chicago
+    GIT_DEPTH: 0
   script:
     - apk add bash tzdata
     - cp /usr/share/zoneinfo/America/Chicago /etc/localtime
