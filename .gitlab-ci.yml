@@ -9,6 +9,7 @@ pages:preview:
     name: squidfunk/mkdocs-material:9.1.4
     entrypoint: ["/bin/sh", "-c"]
   script:
+    - apk add bash
     - chmod +x ./timestamp.sh
     - ./timestamp.sh
     - mkdocs build --strict --verbose --site-dir public
