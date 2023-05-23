@@ -14,7 +14,7 @@ If you are experiencing an acute mental health crisis and are unable to immediat
 
 The practice will respond to requests via email within one business day.
 
-[<center>Matters of the Mind Therapy<br>(staff@motmtherapy.com)</center>](mailto:staff@motmtherapy.com){ .md-button }
+[Matters of the Mind Therapy<br>(staff@motmtherapy.com)](mailto:staff@motmtherapy.com){ .md-button }
 
 Electronic medical records may be sent to us from other providers via email. Please call to confirm receipt.
 
@@ -22,7 +22,7 @@ Electronic medical records may be sent to us from other providers via email. Ple
 
 Please call and leave a voicemail with the practice if you have any questions.
 
-[<center>Matters of the Mind Therapy<br>(123-456-7890)</center>](tel:1234567890){ .md-button }
+[Matters of the Mind Therapy<br>(123-456-7890)](tel:1234567890){ .md-button }
 
 If we are unable to answer, please leave a voicemail. We will respond to voicemails within one business day.
 
@@ -30,6 +30,6 @@ If we are unable to answer, please leave a voicemail. We will respond to voicema
 
 Paper medical records may be transferred to the practice via fax.
 
-[<center>Matters of the Mind Therapy<br>(123-456-7890)</center>](tel:1234567890){ .md-button }
+[Matters of the Mind Therapy<br>(123-456-7890)](tel:1234567890){ .md-button }
 
 Please call your provider to confirm receipt.
