@@ -4,7 +4,7 @@
 ## Telehealth
 
 All our providers are licensed by state boards to serve clients via telehealth or in-person psychotherapy sessions.
-Clients must reside within a state that the therapist is licensed to provide services in.
+For telehealth services, clients must reside within a state that the therapist is licensed to provide services in.
 
 ## In Person
 
