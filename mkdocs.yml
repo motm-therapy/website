@@ -63,6 +63,8 @@ nav:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      type: datetime
 
 extra:
   social:
