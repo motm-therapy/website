@@ -2,9 +2,13 @@
 
 ## Testing Only
 
-Clients referred by a psychologist for testing, should use this option.
+Clients referred by a psychologist for psychological test administration, should use this option.
 
 [Jasmine Scott-Cochran, MS, NCC, LPC<br>(Testing, XXX minutes)](https://google.com){ .md-button }
+
+Note: we are not certified to interpret the results of psychological tests, only administer them.
+After testing is complete, your referring psychologist will review your test and,
+depending on the results, provide you with a diagnosis and treatment options.
 
 ## New Patients
 
