@@ -2,7 +2,7 @@
 
 
 timestamp="$CI_COMMIT_TIMESTAMP"
-if [[ "${timestamp}" == "" ]]; then timestamp="$(date --iso-8601=seconds)"; fi
+if [[ "${timestamp}" == "" ]]; then timestamp="$(date --rfc-3339=seconds)"; fi
 
 # This string replaces the "copyright:" line in the config file at website build time
 copyright_string="copyright: \"Copyright &copy; 2023 Matters of the Mind Therapy, LLC<br>Last Site Update: ${timestamp}\""
