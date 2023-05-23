@@ -7,8 +7,11 @@ stages:
   image:
     name: squidfunk/mkdocs-material:9.1.4
     entrypoint: ["/bin/sh", "-c"]
+  variables:
+    TZ: America/Chicago
   script:
-    - apk add bash
+    - apk add bash tzdata
+    - cp /usr/share/zoneinfo/America/Chicago /etc/localtime
     - chmod +x ./timestamp.sh
     - ./timestamp.sh
     - mkdocs build --strict --verbose --site-dir public
