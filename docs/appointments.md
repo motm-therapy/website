@@ -7,6 +7,7 @@ Potential, new, and existing clients should use our client portal for scheduling
 Appointment times are not finalized until a provider approves your appointment request.
 Ensure your provided contact information is accurate so that you receive appointment approval notifications.
 You will also receive appointment reminders prior to scheduled appointment times as a courtesy.
+
 Communications from the client portal will come from domains starting with: **simplepractice.com** and/or **clientsecure.me**.
 Please ensure your spam filter is not marking these as junk mail in order to receive emails from the client portal.
 
