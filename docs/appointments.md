@@ -1,6 +1,6 @@
 # :fontawesome-regular-calendar-days: Appointments
 
-Both new and existing clients should use our client portal for scheduling appointments and consultations.
+Potential, new, and existing clients should use our client portal for scheduling appointments and consultations.
 
 [portal.motmtherapy.com](https://portal.motmtherapy.com){ .md-button }
 
