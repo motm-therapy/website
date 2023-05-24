@@ -2,7 +2,7 @@
 
 ## :fontawesome-solid-circle-exclamation: Emergencies 
 
-If you are experiencing a medical emergency, contact the National 991 System. Please call:
+If you are experiencing a medical emergency, contact the National 911 System. Please call:
 
 [911](tel:911){ .md-button }
 
