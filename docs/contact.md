@@ -22,7 +22,7 @@ Electronic medical records may be sent to us from other providers via email. Ple
 
 Please call and leave a voicemail with the practice if you have any questions.
 
-[123-456-7890](tel:1234567890){ .md-button }
+[210-622-2504](tel:2106222504){ .md-button }
 
 If we are unable to answer, please leave a voicemail. We will respond to voicemails within one business day.
 
@@ -30,6 +30,6 @@ If we are unable to answer, please leave a voicemail. We will respond to voicema
 
 Paper medical records may be transferred to the practice via fax.
 
-[123-456-7890](tel:1234567890){ .md-button }
+[210-622-2706](tel:2106222706){ .md-button }
 
 Please call your provider to confirm receipt.
