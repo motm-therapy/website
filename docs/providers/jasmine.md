@@ -3,7 +3,7 @@
 <figure markdown>
   ![Jasmine Scott-Cochran](assets/provider.jpg){ height="256" width="256" loading="lazy" }
   <figcaption>
-    Jasmine Scott-Cochran
+    Jasmine Scott-Cochran,<br>MS, NCC, LPC
   </figcaption>
 </figure>
 
