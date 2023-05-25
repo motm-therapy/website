@@ -1,0 +1,22 @@
+---
+
+name: ci 
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    container: squidfunk/mkdocs-material:9.1.4
+    steps:
+      - uses: actions/checkout@v3
+      - run: apk add bash tzdata
+      - run: cp /usr/share/zoneinfo/America/Chicago /etc/localtime
+      - run: chmod +x ./timestamp.sh
+      - run: ./timestamp.sh
+      - run: mkdocs gh-deploy --force
+
+...
