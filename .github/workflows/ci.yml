@@ -27,6 +27,9 @@ jobs:
       - run: cp /usr/share/zoneinfo/America/Chicago /etc/localtime
       - run: chmod +x ./timestamp.sh
       - run: ./timestamp.sh
-      - run: mkdocs gh-deploy --force
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ...
