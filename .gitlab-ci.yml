@@ -3,6 +3,7 @@ stages:
   - preview-stage
   - deploy-stage
 
+# Template used to deploy Gitlab Pages based website as preview app or in production mode
 .job_template:
   image:
     name: squidfunk/mkdocs-material:9.1.4
