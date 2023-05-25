@@ -89,7 +89,7 @@ extra:
       name: Check us out on Gitlab
     - icon: fontawesome/solid/up-long
       link: https://stats.uptimerobot.com/RKlKzCG3wp
-      name: Check us our status page on UptimeRobot
+      name: Check out our status page on UptimeRobot
 
 copyright:   # This line is automatically populated at build time, do not modify it
 
