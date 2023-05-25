@@ -67,13 +67,13 @@ plugins:
 extra:
   social:
     - icon: fontawesome/solid/phone
-      link: tel:1234567890
+      link: tel:2106222504
       name: Call us
     - icon: fontawesome/solid/paper-plane
-      link: mailto:jasmine@motmtherapy.com
+      link: mailto:staff@motmtherapy.com
       name: Email us
     - icon: material/butterfly
-      link: https://meetmonarch.com
+      link: https://meetmonarch.com/therapist/jasmine-scott-cochran
       name: Check us out on Monarch
     - icon: simple/academia
       link: https://secure.helloalma.com/providers/jasmine-scott-cochran/
