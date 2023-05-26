@@ -25,3 +25,12 @@ Identify with our patients’ situations and have a sense of their feelings and 
 ### Cultural Respect
 
 Appreciate and respect the diversity and cultural differences of our patients and take into account the many multi-dimensional aspects of their lives. Recognize and help to preserve their culture by providing care that takes into consideration and supports, not replaces, their cultural identity.
+
+## Membership
+
+Being a contributor to the larger community of practitioners and active members of our local community is important to us. Here are our current corporate partnerships and memberships.
+
+<!-- Professional verification provided by Psychology Today -->
+<a href="https://www.psychologytoday.com/profile/726906" class="sx-verified-seal"></a>
+<script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js" data-badge="13" data-id="726906" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy9bQkFER0VdL3Byb2ZpbGUvW1BST0ZJTEVfSURdP2NhbGxiYWNrPXN4Y2FsbGJhY2s="></script>
+<!-- End Verification -->
