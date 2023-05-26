@@ -18,6 +18,19 @@ Insurances we accept at this time:
 
 - Aetna
 - Several others via [Alma](https://secure.helloalma.com/providers/jasmine-scott-cochran/)
+  - UnitedHealthcare
+  - Oxford Health Plans
+  - Cigna
+  - UMR
+  - Oscar
+  - UHC Student Resources
+  - AllSavers UHC
+  - Harvard Pilgrim
+  - United Healthcare Shared
+  - Services
+  - Surest (Formerly Bind)
+  - Health Plans Inc.
+  - UnitedHealthcare Global
 
 ### Non-Insurance
 
