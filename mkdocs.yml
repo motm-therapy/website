@@ -64,6 +64,8 @@ nav:
 plugins:
   - search
   - privacy
+      links_attr_map:
+      target: _blank
   - optimize
 
 extra:
