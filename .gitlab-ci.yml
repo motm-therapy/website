@@ -6,15 +6,12 @@ stages:
 # Template used to deploy Gitlab Pages based website as preview app or in production mode
 .job_template:
   image:
-    name: squidfunk/mkdocs-material:9.1.4
+    name: registry.gitlab.com/codrcodz/mkdocs-material-insiders-docker/image:mr-2
     entrypoint: ["/bin/sh", "-c"]
   variables:
     TZ: America/Chicago
   script:
-    - apk add bash tzdata
-    - cp /usr/share/zoneinfo/America/Chicago /etc/localtime
-    - chmod +x ./timestamp.sh
-    - ./timestamp.sh
+    - ./entrypoint.sh
     - mkdocs build --strict --verbose --site-dir public
   artifacts:
     paths:
