@@ -63,6 +63,8 @@ nav:
 
 plugins:
   - search
+  - privacy
+  - optimize
 
 extra:
   social:
