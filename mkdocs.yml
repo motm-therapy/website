@@ -66,8 +66,6 @@ plugins:
   - privacy:
       links_attr_map:
         target: _blank
-  - optimize:
-      cache: false
 
 extra:
   social:
