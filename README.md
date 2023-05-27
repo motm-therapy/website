@@ -1,10 +1,14 @@
 # Website
 
+## Purpose
+
 This repository is used to create a static website for Matters of the Mind Therapy, LLC at https://motmtherapy.com.
 
 It uses the Material for MkDocs set of themes and plugins, and the MkDocs static site generator (SSG) to create a simple marketing site.
 
 Note: due to patient privacy concerns, this website is strictly a marketing site for the practice. It contains no PHI/PII, and it does not process payments.
+
+## Technical Details
 
 To ensure visitor privacy, the website is only available over HTTPS. TLS 1.3 is enforced.
 
