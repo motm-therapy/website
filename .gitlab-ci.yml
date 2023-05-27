@@ -11,6 +11,8 @@ stages:
   variables:
     TZ: America/Chicago
   cache:
+    untracked: true
+    unprotect: true
     key: mkdocs-cache
     paths:
       - .cache/
