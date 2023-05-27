@@ -1,7 +1,7 @@
 # Welcome
 
 <figure markdown>
-![Matters of the Mind](assets/logo.png){ height="288" width="512" loading="lazy" }
+![Matters of the Mind](assets/logo.png){ height="288" width="512" }
   <figcaption></figcaption>
 </figure>
 
