@@ -10,12 +10,6 @@ stages:
     entrypoint: ["/bin/sh", "-c"]
   variables:
     TZ: America/Chicago
-  cache:
-    untracked: true
-    unprotect: true
-    key: mkdocs-cache
-    paths:
-      - .cache/
   script:
     - /entrypoint.sh
     - mkdocs build --strict --verbose --site-dir public
