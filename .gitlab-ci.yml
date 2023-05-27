@@ -11,7 +11,7 @@ stages:
   variables:
     TZ: America/Chicago
   script:
-    - ./entrypoint.sh
+    - /entrypoint.sh
     - mkdocs build --strict --verbose --site-dir public
   artifacts:
     paths:
