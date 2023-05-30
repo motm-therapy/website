@@ -10,6 +10,7 @@ stages:
     entrypoint: ["/bin/sh", "-c"]
   variables:
     TZ: America/Chicago
+    copyright_holder: "2023 Matters of the Mind Therapy, LLC"
   script:
     - /entrypoint.sh
     - mkdocs build --strict --verbose --site-dir public
