@@ -6,11 +6,11 @@ stages:
 # Template used to deploy Gitlab Pages based website as preview app or in production mode
 .job_template:
   image:
-    name: registry.gitlab.com/codrcodz/mkdocs-material-insiders-docker/image:mr-2
+    name: registry.gitlab.com/codrcodz/mkdocs-material-insiders-docker/image:mr-3
     entrypoint: ["/bin/sh", "-c"]
   variables:
     TZ: America/Chicago
-    copyright_holder: "2023 Matters of the Mind Therapy, LLC"
+    COPYRIGHT_HOLDER: "2023 Matters of the Mind Therapy, LLC"
   script:
     - /entrypoint.sh
     - mkdocs build --strict --verbose --site-dir public
