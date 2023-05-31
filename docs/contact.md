@@ -16,6 +16,9 @@ The practice will respond to requests via email within one business day.
 
 [staff@motmtherapy.com](mailto:staff@motmtherapy.com){ .md-button }
 
+_If this button does not work, please manually email the address;_
+_your device is likely not configured to automatically open an email client to handle links of this type._
+
 Electronic medical records may be sent to us from other providers via email. Please call to confirm receipt.
 
 ## :fontawesome-solid-phone: Phone
