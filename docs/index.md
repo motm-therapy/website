@@ -36,5 +36,5 @@ Being a contributor to the larger community of practitioners and active members 
 <!-- End Verification -->
 
 <figure markdown>
-![International OCD Foundation](assets/ocd-logo.webp){ height="46" width="46" href="https://iocdf.org" }
+[![International OCD Foundation](assets/ocd-logo.webp)](https://iocdf.org){ height="46" width="46" align="left"}
 </figure>
