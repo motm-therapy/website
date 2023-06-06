@@ -26,9 +26,9 @@ Identify with our patients’ situations and have a sense of their feelings and 
 
 Appreciate and respect the diversity and cultural differences of our patients and take into account the many multi-dimensional aspects of their lives. Recognize and help to preserve their culture by providing care that takes into consideration and supports, not replaces, their cultural identity.
 
-## Membership
+## Affiliations
 
-Being a contributor to the larger community of practitioners and active members of our local community is important to us. Here are our current corporate partnerships and memberships.
+Being active members of the therapeutic community is important to us. Here are our current partnerships, memberships, and other affiliations. See our individual provider profiles for more details on our affiliations.
 
 <figure markdown>
 [![Psychology Today](assets/pt-logo.png){ height="64" width="256" }](https://www.psychologytoday.com/us)
