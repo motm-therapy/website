@@ -32,9 +32,9 @@ Being a contributor to the larger community of practitioners and active members 
 
 <figure markdown>
 [![Psychology Today](assets/pt-logo.png){ height="64" width="256" }](https://www.psychologytoday.com/us)
-  <figcaption>Psychology Today</figcaption>
+  <figcaption></figcaption>
 </figure>
 <figure markdown>
 [![International OCD Foundation](assets/ocd-logo.webp){ height="64" width="64" }](https://iocdf.org)
-  <figcaption>International OCD Foundation</figcaption>
+  <figcaption></figcaption>
 </figure>
