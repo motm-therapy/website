@@ -39,7 +39,7 @@ Being active members of the therapeutic community is important to us. Here are o
 { .card style="background:#ffffff;" }
 
 [![Alma](assets/alma-logo.png){ height="64" width="128" style="display:block;margin-left:auto;margin-right:auto;" }](https://helloalma.com)
-{ .card style="background:#ffffff;" }
+{ .card background="#ffffff" }
 
 [![Monarch](assets/monarch.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://meetmonarch.com)
 { .card style="background:#ffffff;" }
