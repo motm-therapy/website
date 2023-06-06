@@ -38,11 +38,11 @@ Being active members in good standing of the therapeutic community is important 
 [![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://iocdf.org)
 { .card style="background:#ffffff;" }
 
-[![Alma](assets/alma-logo.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://helloalma.com)
-{ .card style="background:#02291c;" }
-
 [![Monarch](assets/monarch.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://meetmonarch.com)
 { .card style="background:#ffffff;" }
+
+[![Alma](assets/alma-logo.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://helloalma.com)
+{ .card style="background:#02291c;" }
 
 [![Texas Behavioral Health Executive Council](assets/txbhec.png){ height="64" width="64" style="display:block;margin-left:auto;margin-right:auto;" }](https://www.bhec.texas.gov/texas-state-board-of-examiners-of-professional-counselors/index.html)
 { .card style="background:#ffce00;" }
