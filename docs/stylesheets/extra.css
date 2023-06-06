@@ -17,10 +17,3 @@
      position: absolute;
 }
 
-figure {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    vertical-align: middle;
-}
