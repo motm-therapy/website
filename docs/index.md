@@ -30,8 +30,8 @@ Appreciate and respect the diversity and cultural differences of our patients an
 
 Being active members of the therapeutic community is important to us. Here are our current partnerships, memberships, and other affiliations. See our individual provider profiles for more details on our affiliations.
 
-<div class="grid" markdown>
-- [![Psychology Today](assets/pt-logo.png){ height="64" width="256" .card .middle }](https://www.psychologytoday.com/us)
-- [![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="128" .card .middle }](https://iocdf.org)
-- [![Alma](assets/alma-logo.png){ height="64" width="128" .card .middle }](https://helloalma.com)
+<div class="grid cards" .middle markdown>
+- [![Psychology Today](assets/pt-logo.png){ height="64" width="256" }](https://www.psychologytoday.com/us)
+- [![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="128" }](https://iocdf.org)
+- [![Alma](assets/alma-logo.png){ height="64" width="128" }](https://helloalma.com)
 </div>
