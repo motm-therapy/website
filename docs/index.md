@@ -44,4 +44,7 @@ Being active members of the therapeutic community is important to us. Here are o
 [![Monarch](assets/monarch.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://meetmonarch.com)
 { .card style="background:#ffffff;" }
 
+[![National Board for Certified Counselors](assets/nbcc.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://nbcc.org/)
+{ .card style="background:#ffffff;" }
+
 </div>
