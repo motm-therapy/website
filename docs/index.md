@@ -34,3 +34,12 @@ Being a contributor to the larger community of practitioners and active members 
 <a href="https://www.psychologytoday.com/profile/726906" class="sx-verified-seal"></a>
 <script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js" data-badge="13" data-id="726906" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy9bQkFER0VdL3Byb2ZpbGUvW1BST0ZJTEVfSURdP2NhbGxiYWNrPXN4Y2FsbGJhY2s="></script>
 <!-- End Verification -->
+
+<figure markdown>
+![International OCD Foundation](assets/ocd-logo.webp){ height="46" width="46" }
+  <center>
+    <figcaption markdown>
+    [International OCD Foundation](https://iocdf.org/)<br>
+    </figcaption>
+  </center>
+</figure>
