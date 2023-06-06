@@ -33,13 +33,13 @@ Being active members of the therapeutic community is important to us. Here are o
 <div class="grid" markdown>
 
 [![Psychology Today](assets/pt-logo.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://www.psychologytoday.com/us)
-{ .card style="background:#ffffff;" }
+{ .card style="background:#477be4;" }
 
 [![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="128" style="display:block;margin-left:auto;margin-right:auto;" }](https://iocdf.org)
 { .card style="background:#ffffff;" }
 
 [![Alma](assets/alma-logo.png){ height="64" width="128" style="display:block;margin-left:auto;margin-right:auto;" }](https://helloalma.com)
-{ .card background="#ffffff" }
+{ .card style="background:#ffffff;" }
 
 [![Monarch](assets/monarch.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://meetmonarch.com)
 { .card style="background:#ffffff;" }
