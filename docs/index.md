@@ -31,8 +31,8 @@ Appreciate and respect the diversity and cultural differences of our patients an
 Being active members of the therapeutic community is important to us. Here are our current partnerships, memberships, and other affiliations. See our individual provider profiles for more details on our affiliations.
 
 <div class="grid cards" markdown>
-- [![Psychology Today](assets/pt-logo.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://www.psychologytoday.com/us)
-- [![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="128" style="display:block;margin-left:auto;margin-right:auto;" }](https://iocdf.org)
-- [![Alma](assets/alma-logo.png){ height="64" width="128" style="display:block;margin-left:auto;margin-right:auto;" }](https://helloalma.com)
-- [![Monarch](assets/monarch.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://meetmonarch.com)
+- [![Psychology Today](assets/pt-logo.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;background:#477be4;" }](https://www.psychologytoday.com/us)
+- [![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="128" style="display:block;margin-left:auto;margin-right:auto;background:#ffffff;" }](https://iocdf.org)
+- [![Alma](assets/alma-logo.png){ height="64" width="128" style="display:block;margin-left:auto;margin-right:auto;background:#ffffff;" }](https://helloalma.com)
+- [![Monarch](assets/monarch.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;background:#ffffff;" }](https://meetmonarch.com)
 </div>
