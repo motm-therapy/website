@@ -39,6 +39,6 @@ Being active members of the therapeutic community is important to us. Here are o
   <figcaption></figcaption>
 </figure>
 <figure markdown>
-[![Alma](assets/alma-logo.png){ height="64" width="128" }](https://iocdf.org)
+[![Alma](assets/alma-logo.png){ height="64" width="128" }](https://helloalma.com)
   <figcaption></figcaption>
 </figure>
