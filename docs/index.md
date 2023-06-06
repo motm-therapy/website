@@ -31,7 +31,7 @@ Appreciate and respect the diversity and cultural differences of our patients an
 Being a contributor to the larger community of practitioners and active members of our local community is important to us. Here are our current corporate partnerships and memberships.
 
 <figure markdown>
-[![Psychology Today](assets/pt-logo.webp)](https://www.psychologytoday.com/us){ height="64" width="256" align="left"}
+[![Psychology Today](assets/pt-logo.png)](https://www.psychologytoday.com/us){ height="64" width="256" align="left"}
 </figure>
 <figure markdown>
 [![International OCD Foundation](assets/ocd-logo.webp)](https://iocdf.org){ height="64" width="64" align="left"}
