@@ -28,7 +28,7 @@ Appreciate and respect the diversity and cultural differences of our patients an
 
 ## Affiliations
 
-Being active members in good standing of the therapeutic community is important to us. Here are some of our current governing bodies, and organizations that our providers are members of. See our individual provider profiles for more details on their specific affiliations.
+Being active members in good standing of the therapeutic community is important to us. Here are some of our current governing bodies and organizations that our providers are members of. See our individual provider profiles for more details on their specific affiliations.
 
 <div class="grid" markdown>
 
