@@ -1,13 +1,11 @@
 # Jasmine Scott-Cochran
 
-<div class="grid cards" markdown>
-- <figure markdown>
-  ![Jasmine Scott-Cochran](assets/jasmine.jpeg){ height="384" width="256" }
-    <figcaption>
-      Jasmine Scott-Cochran<br>MS, NCC, LPC
-    </figcaption>
-  </figure>
-</div>
+<figure markdown>
+![Jasmine Scott-Cochran](assets/jasmine.jpeg){ height="384" width="256" }
+  <figcaption markdown>
+  [Jasmine Scott-Cochran, MS, NCC, LPC](jasmine.md)
+  </figcaption>
+</figure>
 
 Jasmine has worked in the field of psychology for nearly 20 years.
 
