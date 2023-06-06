@@ -35,6 +35,10 @@ Being active members of the therapeutic community is important to us. Here are o
   <figcaption></figcaption>
 </figure>
 <figure markdown>
-[![International OCD Foundation](assets/ocd-logo.webp){ height="64" width="64" }](https://iocdf.org)
+[![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="128" }](https://iocdf.org)
+  <figcaption></figcaption>
+</figure>
+<figure markdown>
+[![Alma](assets/alma-logo.png){ height="64" width="128" }](https://iocdf.org)
   <figcaption></figcaption>
 </figure>
