@@ -10,8 +10,11 @@ For telehealth services, clients must reside within a state that the therapist i
 
 ### San Antonio, TX
 
-We are in the process of acquiring office space in North Central San Antonio for in-person sessions.
+In person sessions are temporarily being conducted at the offices of [Cantera Psychiatry](https://canterapsychiatry.com/) while we search for a permanent office location in North Central San Antonio.
 
 <div class="google-map">
-     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5008.612064502143!2d-98.46383475274716!3d29.606315978697353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1684766258471!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7539.110790215721!2d-98.49195135045656!3d29.522197758524715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c5dddccd00001%3A0x24502a6ee43d7184!2sCantera%20Psychiatry!5e0!3m2!1sen!2sus!4v1686090236221!5m2!1sen!2sus" width="512" height="384" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
 </div>
+
+[85 NE Loop 410, Suite 420, San Antonio, TX 78216](https://www.google.com/maps/place/Cantera+Psychiatry/@29.5214644,-98.4886531,18z/)
