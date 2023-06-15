@@ -17,6 +17,6 @@ In person sessions are temporarily being conducted at the offices of [Cantera Ps
   </iframe>
 </div>
 
-MotM Therapy at Cantera Psychiatry  
+MotM at Cantera Psychiatry  
 85 NE Loop 410, Suite 422  
 San Antonio, TX 78216
