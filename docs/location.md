@@ -18,5 +18,5 @@ In person sessions are temporarily being conducted at the offices of [Cantera Ps
 </div>
 
 Cantera Psychiatry  
-85 NE Loop 410, Suite 420  
+85 NE Loop 410, Suite 422  
 San Antonio, TX 78216
