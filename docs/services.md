@@ -6,7 +6,7 @@ description: This page provides info about services offered and client eligibili
 
 ### Consultations
 
-We offer free consultations for potential clients that have yet to select our practice or a provider are fifteen (15) minutes.
+We offer free consultations for potential clients that have yet to select our practice or a provider. Consultations are fifteen (15) minutes.
 
 ### Psychotherapy
 
