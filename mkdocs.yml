@@ -10,14 +10,14 @@ theme:
     - scheme: default
       media: "(prefers-color-scheme: light)"
       primary: custom
-      accent: teal
+      accent: green
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       media: "(prefers-color-scheme: dark)"
       primary: custom
-      accent: lime
+      accent: light-green
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
