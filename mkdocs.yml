@@ -75,23 +75,26 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:staff@motmtherapy.com
       name: Email us
+    - icon: fontawesome/fontawesome-solid-calendar-days
+      link: https://motmtherapy.com/portal
+      name: Book an appointment or consultation on our client portal
     - icon: material/butterfly
-      link: https://meetmonarch.com/therapist/jasmine-scott-cochran-ms-ncc-lpc-owner-therapist
+      link: https://motmtherapy.com/monarch
       name: Check us out on Monarch
     - icon: simple/academia
-      link: https://secure.helloalma.com/providers/jasmine-scott-cochran/
+      link: https://motmtherapy.com/alma
       name: Check us out on Alma
     - icon: fontawesome/solid/brain
-      link: https://www.psychologytoday.com/us/therapists/jasmine-scott-cochran-san-antonio-tx/726906
+      link: https://motmtherapy.com/psychology-today
       name: Check us out on Psychology Today
     - icon: fontawesome/brands/linkedin-in
-      link: https://www.linkedin.com/company/matters-of-the-mind-therapy-llc/
+      link: https://motmtherapy.com/linkedin
       name: Check us out on LinkedIn
     - icon: fontawesome/brands/gitlab
-      link: https://gitlab.com/motm-therapy/
+      link: https://motmtherapy.com/gitlab
       name: Check us out on Gitlab
     - icon: fontawesome/solid/up-long
-      link: https://status.motmtherapy.com
+      link: https://motmtherapy.com/status
       name: Check out our status page from UptimeRobot
 
 copyright:   # This line is automatically populated at build time, do not modify it
