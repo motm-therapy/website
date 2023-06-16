@@ -4,20 +4,20 @@ description: This page provides info about services offered and client eligibili
 
 # Services
 
-## Consultations
+### Consultations
 
 Free consultations for potential clients that have yet to select our practice or a provider are fifteen (15) minutes.
 
-## Psychotherapy
+### Psychotherapy
 
 We provide out-patient psychotherapy services for individuals and couples. All psychotherapy sessions are fifty-two (52) to fifty-five (55) minutes for both new and existing clients.
 
-# Eligibility
+## Eligibility
 
-## Age
+### Age
 
 We see anyone _**ages 13 and up**_.
 
-## Other Demographics
+### Other Demographics
 
 We see clients regardless of race, sexual orientation, gender identity, religion, or political leanings.
