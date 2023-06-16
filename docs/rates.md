@@ -1,3 +1,7 @@
+---
+description: This page provides cash rates, insurances accepted, and no-show fees for Matters of the Mind Therapy, LLC.
+---
+
 # Rates and Fees
 
 ## Rates
