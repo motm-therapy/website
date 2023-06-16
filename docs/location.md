@@ -1,5 +1,8 @@
-# Location
+---
+description: This page contains location information for Matters of the Mind Therapy, LLC.
+---
 
+# Location
 
 ## Telehealth
 
@@ -20,3 +23,5 @@ In person sessions are temporarily being conducted at the offices of [Cantera Ps
 MotM at Cantera Psychiatry  
 85 NE Loop 410, Suite 422  
 San Antonio, TX 78216
+
+...
