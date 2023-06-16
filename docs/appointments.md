@@ -1,3 +1,7 @@
+---
+description: This page contains information on how to book appointments with providers at Matters of the Mind Therapy, LLC.
+---
+
 # :fontawesome-regular-calendar-days: Appointments
 
 Potential, new, and existing clients should use our client portal for scheduling appointments and consultations.
