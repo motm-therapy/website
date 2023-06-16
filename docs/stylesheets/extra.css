@@ -1,7 +1,5 @@
 :root {
-  --md-primary-fg-color:     #87AB98;
-  --md-primary-color-light:  #87AB98;
-  --md-primary-color-dark:   #496958;
+  --md-primary-fg-color--light: #455E4E
 }
 
 .google-map {
