@@ -17,7 +17,7 @@ Please check your coverage carefully by asking the following questions:
 Insurances we accept at this time:
 
 
-- Several via [Alma](https://secure.helloalma.com/providers/jasmine-scott-cochran/)
+- Several via [Alma](https://motmtherapy.com/alma)
     - Aetna
     - UnitedHealthcare
     - Oxford Health Plans
