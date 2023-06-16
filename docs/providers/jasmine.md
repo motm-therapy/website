@@ -1,3 +1,7 @@
+---
+description: This page provides a biography and qualifications for Jasmine Scott-Cochran.
+---
+
 # Jasmine Scott-Cochran
 
 <figure markdown>
