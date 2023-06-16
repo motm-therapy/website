@@ -14,4 +14,10 @@ We provide out-patient psychotherapy services for individuals and couples. All p
 
 # Eligibility
 
-We see anyone _**ages 13 and up**_. We see clients regardless of race, sexual orientation, gender identity, religion, or political leanings.
+## Age
+
+We see anyone _**ages 13 and up**_.
+
+## Other Demographics
+
+We see clients regardless of race, sexual orientation, gender identity, religion, or political leanings.
