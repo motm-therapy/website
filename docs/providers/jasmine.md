@@ -23,12 +23,12 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 
 ## Memberships
 
-- [Member](https://iocdf.org/providers/scott-cochran-jasmine-d/) of the International OCD Foundation
+- [Member](https://motmtherapy.com/iocdf) of the International OCD Foundation
 
 ## Licenses
 
 - [Licensed Professional Counselor (LPC)](https://vo.licensing.hpc.texas.gov/datamart/searchByName.do) (License No. 83366) by the State of Texas
-- [National Certified Counselor (NCC)](1140314) (License No. 1140314) by the National Board of Certified Counselors (NBCC)
+- [National Certified Counselor (NCC)](https://nbcc.org/search/counselorverify) (License No. 1140314) by the National Board of Certified Counselors (NBCC)
 
 ## Certifications
 
