@@ -1,3 +1,7 @@
+---
+description: This page provides phone, email, and fax contact info for Matters of the Mind Therapy, LLC.
+---
+
 # Contact Us
 
 ## :fontawesome-solid-circle-exclamation: Emergencies 
