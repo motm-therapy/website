@@ -75,7 +75,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:staff@motmtherapy.com
       name: Email us
-    - icon: fontawesome/fontawesome-solid-calendar-days
+    - icon: fontawesome/solid/calendar-days
       link: https://motmtherapy.com/portal
       name: Book an appointment or consultation on our client portal
     - icon: material/butterfly
