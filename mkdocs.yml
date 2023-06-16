@@ -16,7 +16,7 @@ theme:
         name: Switch to dark mode
     - scheme: slate
       media: "(prefers-color-scheme: dark)"
-      primary: custom
+      primary: light-green
       accent: teal
       toggle:
         icon: material/weather-sunny
