@@ -46,6 +46,6 @@ Please call your provider to confirm receipt.
 
 The practice accepts physical mail, (except packages), via post office box.
 
-Matters of the Mind Therapy, LLC
-PO Box 700746
+Matters of the Mind Therapy, LLC  
+PO Box 700746  
 San Antonio, TX 78270-0746
