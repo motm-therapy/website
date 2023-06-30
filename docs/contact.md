@@ -25,6 +25,7 @@ _your device is likely not configured to automatically open an email client to h
 
 Electronic medical records may be sent to us from other providers via email. Please call to confirm receipt.
 
+
 ## :fontawesome-solid-phone: Phone
 
 Please call and leave a voicemail with the practice if you have any questions.
@@ -40,3 +41,11 @@ Paper medical records may be transferred to the practice via fax.
 [210-622-2706](tel:2106222706){ .md-button }
 
 Please call your provider to confirm receipt.
+
+## :material-mailbox: Mail
+
+The practice accepts physical mail, (except packages), via post office box.
+
+Matters of the Mind Therapy, LLC
+PO Box 700746
+San Antonio, TX 78270-0746
