@@ -4,6 +4,7 @@ site_name: Matters of the Mind
 
 theme:
   name: material
+  # Comment out the overrides line below to disable the announcement bar
   custom_dir: overrides
   font:
     text: Comfortaa
