@@ -22,6 +22,7 @@ Insurances we accept at this time:
 
 - Aetna
 - TRICARE
+- Blue Cross Blue Shield
 - [Alma](https://motmtherapy.com/alma) Insurance Partners
     - UnitedHealthcare
     - Oxford Health Plans
