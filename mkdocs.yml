@@ -4,6 +4,7 @@ site_name: Matters of the Mind
 
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: Comfortaa
   palette:
