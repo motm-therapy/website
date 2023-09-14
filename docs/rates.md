@@ -17,6 +17,7 @@ Please check your coverage carefully by asking the following questions:
 - How many sessions per year does my health insurance cover?
 - What is the coverage amount per therapy session?
 - Is approval required from my primary care physician?
+- Is pre-authorization required from the insurer?
 
 Insurances we accept at this time:
 
