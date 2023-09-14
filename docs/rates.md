@@ -31,7 +31,7 @@ Insurances we accept at this time:
     - TRICARE Reserve Select (TRS)
     - TRICARE Retired Reserve (TRR)
     - TRICARE Young Adult (TYA)
-- Commercial [TRICARE Supplemental Insurance](https://www.tricare.mil/Plans/OHI/SuppInsurance) Plans
+    - Commercial [TRICARE Supplemental Insurance](https://www.tricare.mil/Plans/OHI/SuppInsurance) Plans
 - [Alma](https://motmtherapy.com/alma) Insurance Partners
     - UnitedHealthcare
     - Oxford Health Plans
