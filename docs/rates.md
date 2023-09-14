@@ -23,14 +23,14 @@ Insurances we accept at this time:
 - Aetna
 - Blue Cross Blue Shield (BCBS)
 - Most TRICARE Plans
-  - TRICARE Prime
-  - TRICARE Select
-  - Transitional Assistance Management Program (TAMP)
-  - Continued Health Care Benefit Program (CHCBP)
-  - TRICARE For Life (TFL)
-  - TRICARE Reserve Select (TRS)
-  - TRICARE Retired Reserve (TRR)
-  - TRICARE Young Adult (TYA)
+    - TRICARE Prime
+    - TRICARE Select
+    - Transitional Assistance Management Program (TAMP)
+    - Continued Health Care Benefit Program (CHCBP)
+    - TRICARE For Life (TFL)
+    - TRICARE Reserve Select (TRS)
+    - TRICARE Retired Reserve (TRR)
+    - TRICARE Young Adult (TYA)
 - [Alma](https://motmtherapy.com/alma) Insurance Partners
     - UnitedHealthcare
     - Oxford Health Plans
