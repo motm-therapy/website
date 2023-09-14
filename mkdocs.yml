@@ -36,6 +36,7 @@ theme:
     - toc.integrate
     - navigation.top
     - navigation.footer
+    - announce.dismiss
 
 markdown_extensions:
   - md_in_html
