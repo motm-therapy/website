@@ -21,7 +21,7 @@ Please check your coverage carefully by asking the following questions:
 Insurances we accept at this time:
 
 - Aetna
-- Tricare
+- TRICARE
 - Several via [Alma](https://motmtherapy.com/alma)
     - UnitedHealthcare
     - Oxford Health Plans
