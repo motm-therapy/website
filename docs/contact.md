@@ -1,5 +1,5 @@
 ---
-description: This page provides phone, email, and fax contact info for Matters of the Mind Therapy, LLC.
+description: This page provides phone, email, and fax contact info for Matters of the Mind Therapy, PLLC.
 ---
 
 # Contact Us
@@ -46,6 +46,6 @@ Please call your provider to confirm receipt.
 
 The practice accepts physical mail, (except packages), via post office box.
 
-Matters of the Mind Therapy, LLC  
+Matters of the Mind Therapy, PLLC  
 PO Box 700746  
 San Antonio, TX 78270-0746
