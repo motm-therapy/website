@@ -1,5 +1,5 @@
 ---
-description: This page is a provider listing for Matters of the Mind Therapy, LLC.
+description: This page is a provider listing for Matters of the Mind Therapy, PLLC.
 ---
 
 # Providers
