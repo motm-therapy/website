@@ -22,6 +22,6 @@ The office is located on the second floor, in suite 270, of the Farm Bureau Bank
   </iframe>
 </div>
 
-Matters of the Mind Therapy, LLC  
+Matters of the Mind Therapy, PLLC  
 17300 Henderson Pass, Suite 270  
 San Antonio, TX 78232
