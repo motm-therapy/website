@@ -1,5 +1,5 @@
 ---
-description: This home page describes the mission, vision, and affiliations of Matters of the Mind Therapy, LLC.
+description: This home page describes the mission, vision, and affiliations of Matters of the Mind Therapy, PLLC.
 ---
 
 # Welcome
