@@ -1,5 +1,5 @@
 ---
-description: This page contains information on how to book appointments with providers at Matters of the Mind Therapy, LLC.
+description: This page contains information on how to book appointments with providers at Matters of the Mind Therapy, PLLC.
 ---
 
 # :fontawesome-regular-calendar-days: Appointments
@@ -15,7 +15,6 @@ You will also receive appointment reminders prior to scheduled appointment times
 Communications from the client portal will come from domains starting with:
 
 - **simplepractice.com**
-- **clientsecure.me**
 
 Please ensure your spam filter is not marking these as junk mail in order to receive emails from the client portal.
 
