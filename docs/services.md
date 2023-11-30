@@ -1,5 +1,5 @@
 ---
-description: This page provides info about services offered and client eligibility for Matters of the Mind Therapy, LLC.
+description: This page provides info about services offered and client eligibility for Matters of the Mind Therapy, PLLC.
 ---
 
 # Services
