@@ -1,5 +1,5 @@
 ---
-description: This page contains location information for Matters of the Mind Therapy, LLC.
+description: This page contains location information for Matters of the Mind Therapy, PLLC.
 ---
 
 # Location
