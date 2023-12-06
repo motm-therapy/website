@@ -28,6 +28,9 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 ## Memberships
 
 - [Member](https://motmtherapy.com/iocdf) of the International OCD Foundation
+- [Member](https://motmtherapy.com/alma) of the Alma provider network
+- [Member](https://motmtherapy.com/monarch) of the Monarch provider network
+- [Member](https://motmtherapy.com/psychology-today) of the Psychology Today provider network
 
 ## Licenses
 
