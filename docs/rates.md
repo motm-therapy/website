@@ -41,7 +41,6 @@ Insurances we accept at this time:
     - Oscar
     - UHC Student Resources
     - AllSavers UHC
-    - Harvard Pilgrim
     - United Healthcare Shared
     - Services
     - Surest (Formerly Bind)
