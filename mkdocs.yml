@@ -25,9 +25,6 @@ theme:
         name: Switch to light mode
   logo: assets/favicon.png
   favicon: assets/favicon.png
-  icon:
-    admonition:
-      note: material/alert
   features:
     - navigation.tabs
     - navigation.instant
