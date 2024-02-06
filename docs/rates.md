@@ -55,7 +55,7 @@ The cash-only rate for clients without insurance is as follows:
 
 Cash, check, and all major credit cards accepted for payment.
 
-!!! note "Rate Change"
+!!! warning "Rate Change"
 
     Effective 1 March 2024, the cash-only rate for clients without insurance will increase.
 
