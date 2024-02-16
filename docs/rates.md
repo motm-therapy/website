@@ -57,7 +57,7 @@ Cash, check, and all major credit cards accepted for payment.
 
 !!! warning "Rate Change"
 
-    Effective 1 March 2024, the cash-only rate for clients without insurance will increase.
+    Effective 1 April 2024, the cash-only rate for clients without insurance will increase.
 
     The new rate will be _**$150 per hour**_ for individual and couple sessions.
 
