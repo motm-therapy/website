@@ -1,5 +1,5 @@
 ---
-description: This page provides cash rates, insurances accepted, and no-show fees for Matters of the Mind Therapy, PLLC.
+description: This page provides cash rates, insurances accepted, paperwork, and no-show fees for Matters of the Mind Therapy, PLLC.
 ---
 
 # Rates and Fees
@@ -68,6 +68,35 @@ Cash, check, and all major credit cards accepted for payment.
 Clients will be sent an email and/or text notifications prior to sessions as a courtesy reminder.
 If you do not show up for your scheduled therapy appointment, and you have not notified us at least 24 hours in advance, you will be required to pay a $75 no-show fee.  If there are three consecutive no-show/no-calls the therapeutic alliance will be terminated.
 
+Cancellation fees **are not covered** as part of insurance or employee benefit plans.
+
+!!! warning "Rate Change"
+
+    Effective 1 April 2024, the no-show fee will increase.
+
+    The new rate will be _**$100 per no-show**_.
+
 ### Reschedule
 
 Appointments moved to a different time slot during the same week as the original appointment will not incur a fee. 
+
+### Paperwork
+
+A paperwork fee is a fee charged anytime a provider must take time to draft extra documentation on a client's behalf for things including, but not limited to letters for:
+
+- An Emotional Support Animal (ESA)
+- Short-term Disability
+- Accommodations
+
+All paperwork requirements and fees will be discussed and agreed upon with the client prior to completion by a provider.
+
+The fee for paperwork is currently _**$0 per thirty (30) minutes of estimated paperwork completion time**_.
+Most paperwork takes approximately thirty (30) minutes to complete; exceptions will be discussed with the client prior to completion.
+
+Paperwork fees **are not covered** as part of insurance or employee benefit plans.
+
+!!! warning "Rate Change"
+
+    Effective 1 April 2024, the paperwork fee will increase.
+
+    The new rate will be _**$75 per thirty (30) minutes of estimated paperwork completion time**_.
