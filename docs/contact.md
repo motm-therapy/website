@@ -44,8 +44,8 @@ Please call your provider to confirm receipt.
 
 ## :material-mailbox: Mail
 
-The practice accepts physical mail, (except packages), via post office box.
+The practice accepts physical mail, including packages, at the following mailing address.
 
-Matters of the Mind Therapy, PLLC  
-PO Box 700746  
-San Antonio, TX 78270-0746
+Matters of the Mind Therapy, PLLC
+17300 Henderson Pass, Ste 270
+San Antonio, TX 78232-1568

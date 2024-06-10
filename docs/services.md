@@ -10,7 +10,7 @@ We offer free consultations for potential clients that have yet to select our pr
 
 ### Psychotherapy
 
-We provide out-patient psychotherapy services for individuals and couples. All psychotherapy sessions are fifty-two (52) to fifty-five (55) minutes for both new and existing clients.
+We provide out-patient psychotherapy services for individuals and couples. All psychotherapy sessions are fifty-five (55) minutes for both new and existing clients.
 
 ## Eligibility
 
