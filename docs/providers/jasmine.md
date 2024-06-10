@@ -55,7 +55,7 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 
 ## Specialties
 
-- [Body-Focused Repetitive Behaviors (BFRB)](https://www.psychologytoday.com/us/basics/body-focused-repetitive-behaviors)
 - [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder)
 - [Personality Disorders](https://www.psychiatry.org/patients-families/personality-disorders/what-are-personality-disorders)
 - [Trauma-Related Disorders](https://www.psychologytoday.com/us/basics/trauma)
+- [Neurodiversity](https://www.psychologytoday.com/us/basics/neurodiversity)
