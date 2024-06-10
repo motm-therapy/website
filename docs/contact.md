@@ -46,6 +46,6 @@ Please call your provider to confirm receipt.
 
 The practice accepts physical mail, including packages, at the following mailing address.
 
-Matters of the Mind Therapy, PLLC
-17300 Henderson Pass, Ste 270
+Matters of the Mind Therapy, PLLC  
+17300 Henderson Pass, Ste 270  
 San Antonio, TX 78232-1568
