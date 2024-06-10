@@ -23,16 +23,6 @@ Insurances we accept at this time:
 
 - Aetna
 - Blue Cross Blue Shield (BCBS)
-[]: # - Most TRICARE Plans
-[]: #    - TRICARE Prime
-[]: #    - TRICARE Select
-[]: #    - TRICARE For Life (TFL)
-[]: #    - TRICARE Reserve Select (TRS)
-[]: #    - TRICARE Retired Reserve (TRR)
-[]: #    - TRICARE Young Adult (TYA)
-[]: #    - Transitional Assistance Management Program (TAMP)
-[]: #    - Continued Health Care Benefit Program (CHCBP)
-[]: #    - Commercial [TRICARE Supplemental Insurance](https://www.tricare.mil/Plans/OHI/SuppInsurance) Plans
 - [Alma](https://motmtherapy.com/alma) Insurance Partners
     - UnitedHealthcare
     - Oxford Health Plans
@@ -55,12 +45,6 @@ The cash-only rate for clients without insurance is as follows:
 
 Cash, check, and all major credit cards accepted for payment.
 
-[]: #!!! warning "Rate Change"
-[]: #
-[]: #    Effective 1 April 2024, the cash-only rate for clients without insurance will increase.
-[]: #
-[]: #    The new rate will be _**$150 per hour**_ for individual and couple sessions.
-
 ## Fees
 
 ### Cancellation
@@ -71,12 +55,6 @@ you will be required to pay a **$100 no-show fee**.
 If there are three consecutive no-show/no-calls the therapeutic alliance will be terminated.
 
 Cancellation fees **are not covered** as part of insurance or employee benefit plans.
-
-[]: # !!! warning "Rate Change"
-[]: #
-[]: #    Effective 1 April 2024, the no-show fee will increase.
-[]: #
-[]: #    The new rate will be _**$100 per no-show**_.
 
 ### Reschedule
 
@@ -96,9 +74,3 @@ The fee for paperwork is currently _**$75 per thirty (30) minutes of estimated p
 Most paperwork takes approximately thirty (30) minutes to complete; exceptions will be discussed with the client prior to completion.
 
 Paperwork fees **are not covered** as part of insurance or employee benefit plans.
-
-[]: # !!! warning "Rate Change"
-[]: # 
-[]: #    Effective 1 April 2024, the paperwork fee will increase.
-[]: # 
-[]: #    The new rate will be _**$75 per thirty (30) minutes of estimated paperwork completion time**_.
