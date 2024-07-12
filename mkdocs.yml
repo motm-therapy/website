@@ -106,10 +106,16 @@ extra:
 extra:
   consent:
     title: Cookie Consent
+    actions:
+      - accept
+      - manage
+      - reject
     description: >-
       We only use cookies to manage your web browser's cached copy of this website to decrease page load times.
-      This website is a static site hosted via [Gitlab](https://about.gitlab.com/privacy/)
-      and [Cloudflare](https://www.cloudflare.com/privacypolicy/).
+      
+      This website is a static site hosted via Gitlab (https://about.gitlab.com/privacy/)
+      and Cloudflare (https://www.cloudflare.com/privacypolicy/).
+
       Neither us nor our hosting providers collect any personally identifiable information (PII) about you
       and/or any information protected under the Health Insurance Portability and Accountability Act (HIPAA)
       when you access this website.
