@@ -108,7 +108,6 @@ extra:
     title: Cookie Consent
     actions:
       - accept
-      - manage
       - reject
     description: >-
       We only use cookies to manage your web browser's cached copy of this website to decrease page load times.
