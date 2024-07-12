@@ -23,7 +23,7 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 
 ## Education
 
-- Master of Science (MS) in Clinical Mental Health Counseling from the University of Texas San Antonio (UTSA)
+- [CACREP-accredited](https://www.cacrep.org/) Master of Science (MS) in [Clinical Mental Health Counseling](https://future.utsa.edu/programs/master/clinical-mental-health-counseling/) from the [University of Texas San Antonio](https://bold.utsa.edu/carnegie-r1/) (UTSA)
 
 ## Memberships
 
