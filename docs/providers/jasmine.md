@@ -19,7 +19,7 @@ After moving to Texas in 2011, Jasmine continued working in treatment programs f
 
 After completing her association period, (similar to a medical residence, but for therapists), Jasmine was certified as a [Licensed Professional Counselor (LPC)](https://nami.org/About-Mental-Illness/Treatments/Types-of-Mental-Health-Professionals) by the State of Texas. Jasmine then began focusing on specialty certifications in disorders like [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder). Jasmine opened her own therapy practice, (Matters of the Mind Therapy, PLLC), in 2023.
 
-Shortly afterwards, Jasmine began focusing on further specialization in [Internal Family Systems (IFS) Therapy](https://www.psychologytoday.com/us/therapy-types/internal-family-systems-therapy) and completed the [IFS Institute](https://ifs-institute.com/) IFS [Level 1](https://ifs-institute.com/trainings/level-1) training course in 2024.
+Shortly afterwards, Jasmine began focusing on further specialization in [Internal Family Systems (IFS) Therapy](https://www.psychologytoday.com/us/therapy-types/internal-family-systems-therapy) and completed the [IFS Institute](https://ifs-institute.com/) [IFS Level 1 Training](https://ifs-institute.com/trainings/level-1) course in 2024.
 
 As your counselor, Jasmine will use her rich behavioral-focused and integrative healthcare backgrounds to inform her therapeutic approach. She will work with you to create a strengths-based, goal-oriented, treatment program that is specialized to meet your individual needs.
 
