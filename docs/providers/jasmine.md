@@ -29,35 +29,34 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 
 ## Memberships
 
+- Member of the [Internal Family Systems (IFS) Institute](https://ifs-institute.com/) provider directory
+- Member of the Strong Star Network of post-traumatic stress disorder (PTSD) treatment providers
 - [Member](https://motmtherapy.com/iocdf) of the International OCD Foundation
-- [Member](https://motmtherapy.com/alma) of the Alma provider network
-- [Member](https://motmtherapy.com/monarch) of the Monarch provider network
-- [Member](https://motmtherapy.com/psychology-today) of the Psychology Today provider network
+- [Member](https://motmtherapy.com/alma) of the Alma psychotherapy provider network
+- [Member](https://motmtherapy.com/psychology-today) of the Psychology Today psychotherapy provider network
 
 ## Licenses
 
 - [Licensed Professional Counselor (LPC)](https://vo.licensing.hpc.texas.gov/datamart/searchByName.do) (License No. 83366) by the State of Texas
 - [National Certified Counselor (NCC)](https://nbcc.org/search/counselorverify) (License No. 1140314) by the National Board of Certified Counselors (NBCC)
 
-## Certifications
+## Certifications & Training
 
+- [Internal Family Systems (IFS) Level 1 Trained](https://ifs-institute.com/trainings/level-1) 
+- [Prolonged Exposure (PE) Therapy](https://strongstartraining.org/) from the Strong Star Training Initiative
 - Exposure & Response Prevention (ERP) Therapy from the [Behavioral Therapy Training Institute (BTTI)](https://iocdf.org/professionals/training-institute/btti/)
 
 ## Methods
 
 - [Internal Family Systems (IFS) Therapy](https://www.psychologytoday.com/us/therapy-types/internal-family-systems-therapy) 
-- [Prolonged Exposure Therapy (PET)](https://www.psychologytoday.com/us/therapy-types/prolonged-exposure-therapy)
-- [Cognitive Processing Therapy (CPT)](https://www.psychologytoday.com/us/therapy-types/cognitive-processing-therapy)
+- [Prolonged Exposure (PE) Therapy](https://www.psychologytoday.com/us/therapy-types/prolonged-exposure-therapy)
 - [Dialectial Behavioral Therapy (DBT)](https://www.psychologytoday.com/us/therapy-types/dialectical-behavior-therapy)
 - [Cognitive Behavioral Therapy (CBT)](https://www.psychologytoday.com/us/basics/cognitive-behavioral-therapy)
 - [Acceptance & Commitment Therapy (ACT)](https://www.psychologytoday.com/us/therapy-types/acceptance-and-commitment-therapy)
-- [Moviational Interviewing (MI)](https://www.psychologytoday.com/us/therapy-types/motivational-interviewing)
 - [Strength-Based Therapy](https://www.psychologytoday.com/us/therapy-types/strength-based-therapy)
-- [Exposure & Response Prevention (ERP)](https://www.psychologytoday.com/us/therapy-types/exposure-and-response-prevention)
 
 ## Specialties
 
-- [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder)
-- [Personality Disorders](https://www.psychiatry.org/patients-families/personality-disorders/what-are-personality-disorders)
 - [Trauma-Related Disorders](https://www.psychologytoday.com/us/basics/trauma)
+- [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder)
 - [Neurodiversity](https://www.psychologytoday.com/us/basics/neurodiversity)
