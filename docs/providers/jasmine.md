@@ -29,8 +29,8 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 
 ## Memberships
 
-- Member of the [Internal Family Systems (IFS) Institute](https://ifs-institute.com/) provider directory
-- Member of the Strong Star Network of post-traumatic stress disorder (PTSD) treatment providers
+- Member of the [IFS Institute](https://ifs-institute.com/) provider directory
+- Member of the [Strong Star Training Initiative](https://strongstartraining.org/) network of post-traumatic stress disorder (PTSD) treatment providers
 - [Member](https://motmtherapy.com/iocdf) of the International OCD Foundation (IOCDF)
 - [Member](https://motmtherapy.com/alma) of the Alma psychotherapy provider network
 - [Member](https://motmtherapy.com/psychology-today) of the Psychology Today psychotherapy provider network
