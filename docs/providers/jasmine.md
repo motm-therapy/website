@@ -31,7 +31,7 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 
 - Member of the [Internal Family Systems (IFS) Institute](https://ifs-institute.com/) provider directory
 - Member of the Strong Star Network of post-traumatic stress disorder (PTSD) treatment providers
-- [Member](https://motmtherapy.com/iocdf) of the International OCD Foundation
+- [Member](https://motmtherapy.com/iocdf) of the International OCD Foundation (IOCDF)
 - [Member](https://motmtherapy.com/alma) of the Alma psychotherapy provider network
 - [Member](https://motmtherapy.com/psychology-today) of the Psychology Today psychotherapy provider network
 
@@ -42,9 +42,9 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 
 ## Certifications & Training
 
-- [Internal Family Systems (IFS) Level 1 Trained](https://ifs-institute.com/trainings/level-1) by the IFS Institute
+- [Internal Family Systems (IFS) Level 1](https://ifs-institute.com/trainings/level-1) trained by the IFS Institute
 - [Prolonged Exposure (PE) Therapy](https://strongstartraining.org/) trained by the Strong Star Training Initiative
-- [Exposure & Response Prevention (ERP) Therapy](https://iocdf.org/professionals/training-institute/btti/) trained by the Behavioral Therapy Training Institute (BTTI)
+- [Exposure & Response Prevention (ERP) Therapy](https://iocdf.org/professionals/training-institute/btti/) trained by the IOCDF Behavioral Therapy Training Institute (BTTI)
 
 ## Methods
 
