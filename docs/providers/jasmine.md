@@ -42,9 +42,9 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 
 ## Certifications & Training
 
-- [Internal Family Systems (IFS) Level 1 Trained](https://ifs-institute.com/trainings/level-1) 
-- [Prolonged Exposure (PE) Therapy](https://strongstartraining.org/) from the Strong Star Training Initiative
-- Exposure & Response Prevention (ERP) Therapy from the [Behavioral Therapy Training Institute (BTTI)](https://iocdf.org/professionals/training-institute/btti/)
+- [Internal Family Systems (IFS) Level 1 Trained](https://ifs-institute.com/trainings/level-1) by the IFS Institute
+- [Prolonged Exposure (PE) Therapy](https://strongstartraining.org/) trained by the Strong Star Training Initiative
+- Exposure & Response Prevention (ERP) Therapy trained by the [Behavioral Therapy Training Institute (BTTI)](https://iocdf.org/professionals/training-institute/btti/)
 
 ## Methods
 
