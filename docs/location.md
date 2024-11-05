@@ -58,7 +58,7 @@ In-person sessions in the San Antonio Airport area are conducted at our location
 
 This office is located in [the Atrium office building](assets/atrium-front.jpg) at the corner of the NE I-410 Loop access road and Mertz Drive.
 
-The main entrance is in the [rear of the building](assets/atrium-rear.jpg), (as seen from the highway).
+The main entrance is in the [rear of the building](assets/atrium-rear.jpg), (not visible from the highway).
 
 After entering [the lobby](assets/atrium-lobby.jpg), take an elevator to the second floor.
 
