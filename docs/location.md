@@ -78,3 +78,9 @@ This office is located on the second floor, in suite 203, of the Atrium building
   ![The Atrium Office - Front](assets/atrium-front.jpg){ height="450" width="600" }
   <figcaption>The Atrium Office Building (Front View)</figcaption>
 </figure>
+
+<figure markdown>
+  ![The Atrium Office - Lobby](assets/atrium-lobby.jpg){ height="450" width="600" }
+  <figcaption>The Atrium Office Building (Lobby View)</figcaption>
+</figure>
+
