@@ -56,7 +56,13 @@ San Antonio, TX 78216
 
 In-person sessions in the San Antonio Airport area are conducted at our location on the Northeast Interstate 410 Loop access road between the North Star Mall and the San Antonio International Airport.
 
-This office is located on the second floor, in suite 203, of the Atrium building at the corner of the NE I-410 Loop access road and Mertz Drive.
+This office is located in [the Atrium office building](assets/atrium-front.jpg) at the corner of the NE I-410 Loop access road and Mertz Drive.
+
+The main entrance is in the [rear of the building](assets/atrium-rear.jpg), (as seen from the highway).
+
+After entering [the lobby](assets/atrium-lobby.jpg), take an elevator to the second floor.
+
+[Suite 203](assets/atrium-suite-203.jpg) will be to your left in the far hallway as you exit the elevator.
 
 <div class="google-map">
   <iframe
@@ -82,5 +88,10 @@ This office is located on the second floor, in suite 203, of the Atrium building
 <figure markdown>
   ![The Atrium Office - Lobby](assets/atrium-lobby.jpg){ height="450" width="600" }
   <figcaption>The Atrium Office Building (Lobby View)</figcaption>
+</figure>
+
+<figure markdown>
+  ![The Atrium Office - Suite 203](assets/atrium-suite-203.jpg){ height="450" width="600" }
+  <figcaption>The Atrium Office Building (Suite 203 View)</figcaption>
 </figure>
 
