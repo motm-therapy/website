@@ -62,7 +62,7 @@ The main entrance is in the [rear of the building](assets/atrium-rear.jpg), (not
 
 After entering [the lobby](assets/atrium-lobby.jpg), take an elevator to the second floor.
 
-[Suite 203](assets/atrium-suite-203.jpg) will be to your left in the far hallway as you exit the elevator.
+As you exit the elevator, [Suite 203](assets/atrium-suite-203.jpg) will be to your left in the far hallway.
 
 <div class="google-map">
   <iframe
