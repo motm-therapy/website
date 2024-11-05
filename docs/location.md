@@ -23,7 +23,7 @@ For telehealth services, clients must reside within a state that the therapist i
 
 !!! note
 
-    **The _last_ session conducted at this office will be Friday, 20 December 2024**
+    **The _last_ session conducted at this office will be Friday, 20 December 2024.**
 
 Matters of the Mind Therapy, PLLC  
 17300 Henderson Pass, Suite 270  
@@ -48,7 +48,7 @@ This office is located on the second floor, in suite 270, of the Farm Bureau Ban
 
 !!! note
 
-    **The _first_ session conducted at this office will be Wednesday, 1 January 2025**
+    **The _first_ session conducted at this office will be Wednesday, 1 January 2025.**
 
 Matters of the Mind Therapy, PLLC  
 85 NE Interstate 410 Loop, Suite 203  
