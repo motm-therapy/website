@@ -25,9 +25,9 @@ For telehealth services, clients must reside within a state that the therapist i
 
     **The _last_ session conducted at this office will be Friday, 20 December 2024.**
 
-Matters of the Mind Therapy, PLLC  
-17300 Henderson Pass, Suite 270  
-San Antonio, TX 78232
+**Matters of the Mind Therapy, PLLC**  
+**17300 Henderson Pass, Suite 270**  
+**San Antonio, TX 78232**
 
 In-person sessions in the North Central San Antonio area are conducted at our location on Henderson Pass.
 
@@ -50,9 +50,9 @@ This office is located on the second floor, in suite 270, of the Farm Bureau Ban
 
     **The _first_ session conducted at this office will be Wednesday, 1 January 2025.**
 
-Matters of the Mind Therapy, PLLC  
-85 NE Interstate 410 Loop, Suite 203  
-San Antonio, TX 78216
+**Matters of the Mind Therapy, PLLC**  
+**85 NE Interstate 410 Loop, Suite 203**  
+**San Antonio, TX 78216**
 
 In-person sessions in the San Antonio Airport area are conducted at our location on the Northeast Interstate 410 Loop access road between the North Star Mall and the San Antonio International Airport.
 
