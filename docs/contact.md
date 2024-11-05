@@ -16,12 +16,14 @@ If you are experiencing an acute mental health crisis and are unable to immediat
 
 ## :fontawesome-solid-paper-plane: Email 
 
+!!! tip
+
+    If any email buttons on this page do not work, please copy and paste the email address to where you need it;
+    your device is likely not configured to automatically open an email client to handle links of this type.
+
 The practice will respond to requests via email within one business day.
 
 [staff@motmtherapy.com](mailto:staff@motmtherapy.com){ .md-button }
-
-_If this button does not work, please manually email the address;_
-_your device is likely not configured to automatically open an email client to handle links of this type._
 
 Electronic medical records may be sent to us from other providers via email. Please call to confirm receipt.
 
