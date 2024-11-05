@@ -32,7 +32,7 @@ Appreciate and respect the diversity and cultural differences of our patients an
 
 ## Affiliations
 
-Being active members in good standing of the therapeutic community is important to us. Here are some of our current governing bodies and organizations that our providers are members of. See our individual provider profiles for more details on their specific affiliations.
+Being active members in good standing of the therapeutic community is important to us. Here are some of our current governing bodies and organizations that our providers are members of. See our individual provider profiles for more details about the specific affiliations of each provider.
 
 <div class="grid" markdown>
 
@@ -42,7 +42,7 @@ Being active members in good standing of the therapeutic community is important 
 [![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://iocdf.org)
 { .card style="background:#ffffff;" }
 
-[![Monarch](assets/monarch.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://meetmonarch.com)
+[![IFS Institute](assets/ifs-institute.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://ifs-institute.com/)
 { .card style="background:#ffffff;" }
 
 [![Alma](assets/alma-logo.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://helloalma.com)
@@ -53,5 +53,11 @@ Being active members in good standing of the therapeutic community is important 
 
 [![National Board for Certified Counselors](assets/nbcc.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://nbcc.org/)
 { .card style="background:#ffffff;" }
+
+[![Monarch](assets/monarch.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://meetmonarch.com/)
+{ .card style="background:#ffffff;" }
+
+[![Strong Star Training Initiative](assets/strong-star.png){ height="64" width="179" style="display:block;margin-left:auto;margin-right:auto;" }](https://strongstartraining.org/)
+{ .card style="background:#1d4255;" }
 
 </div>
