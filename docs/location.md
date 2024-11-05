@@ -17,6 +17,8 @@ For telehealth services, clients must reside within a state that the therapist i
 
     _Wednesday, 1 January 2025_ will be the _first_ day that patients will have in-person appointments in the Atrium office (new office).
 
+    Any sessions conducted after the last session in the old office, but before the first session in the new office will be telehealth.
+
 ### San Antonio, TX (Old)
 
 !!! note

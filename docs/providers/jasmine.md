@@ -29,7 +29,7 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 
 ## Memberships
 
-- Member of the [IFS Institute](https://ifs-institute.com/practitioners/all/158024) provider directory
+- [Member](https://ifs-institute.com/practitioners/all/158024) of the IFS Institute provider directory
 - Member of the [Strong Star Training Initiative](https://strongstartraining.org/) network of post-traumatic stress disorder (PTSD) treatment providers
 - [Member](https://iocdf.org/providers/scott-cochran-jasmine-d/) of the International OCD Foundation (IOCDF)
 - [Member](https://secure.helloalma.com/providers/jasmine-scott-cochran/) of the Alma psychotherapy provider network
