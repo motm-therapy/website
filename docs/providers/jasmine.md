@@ -15,7 +15,7 @@ Jasmine has worked in the field of psychology for nearly 20 years.
 
 Jasmine started her career in Anchorage, AK as a behavioral technician in adolescent residential treatment facilities like [AK Child & Family](https://www.akchild.org/) (formerly Alaska Children's Services) and also worked at Alaska's premier psychiatric hospital: the [Alaska Psychiatric Institute](https://dfcs.alaska.gov/api/Pages/default.aspx). After moving to Texas in 2011, Jasmine continued working in treatment programs focused on adolescents and/or on the neuro-divergent in facilities like [New Life Children's Center](https://upbring.org/new-life-childrens-center/) and for companies like [Butterfly Effects](https://butterflyeffects.com/).
 
-As part of her post-graduate studies at the University of Texas at San Antonio (UTSA), she completed an internship in integrative behavioral healthcare at the [UT Health - Robert B. Green Campus](https://www.uthscsa.edu/patient-care/physicians/location/Robert-B-Green-Campus-Downtown), assisting physicians with patients requiring behavioral intervention through [Solution-Focused Brief Therapy (SFBT)](https://www.psychologytoday.com/us/therapy-types/solution-focused-brief-therapy) as a complementary service to their medical care. After completing her degree (MS in Clinical Mental Health Counseling) in 2018 and becoming a National Certified Counselor (NCC), Jasmine began working in private practice gaining valuable experience as a Licensed Professional Counselor - Associate (LPC-A) under the supervision of more experienced professionals.
+As part of her post-graduate studies at the [University of Texas at San Antonio (UTSA)](https://www.utsa.edu/), she completed an internship in integrative behavioral healthcare at the [UT Health - Robert B. Green Campus](https://www.uthscsa.edu/patient-care/physicians/location/Robert-B-Green-Campus-Downtown), assisting physicians with patients requiring behavioral intervention through [Solution-Focused Brief Therapy (SFBT)](https://www.psychologytoday.com/us/therapy-types/solution-focused-brief-therapy) as a complementary service to their medical care. After completing her degree (MS in Clinical Mental Health Counseling) in 2018 and becoming a National Certified Counselor (NCC), Jasmine began working in private practice gaining valuable experience as a Licensed Professional Counselor - Associate (LPC-A) under the supervision of more experienced professionals.
 
 <figure markdown>
 ![Jasmine with her mother at UTSA commencement ceremony](assets/jasmine-graduation.jpg){ height="323" width="256" style="display:block;margin-left:auto;margin-right:auto;" }
@@ -40,7 +40,7 @@ As your counselor, Jasmine will use her rich behavioral-focused and integrative 
 
 ## Education
 
-- [CACREP-accredited](https://www.cacrep.org/) Master of Science (MS) in [Clinical Mental Health Counseling](https://future.utsa.edu/programs/master/clinical-mental-health-counseling/) from the [University of Texas San Antonio](https://bold.utsa.edu/carnegie-r1/) (UTSA)
+- [CACREP-accredited](https://www.cacrep.org/) Master of Science (MS) in [Clinical Mental Health Counseling](https://future.utsa.edu/programs/master/clinical-mental-health-counseling/) from the [University of Texas at San Antonio](https://bold.utsa.edu/carnegie-r1/) (UTSA)
 
 ## Memberships
 
