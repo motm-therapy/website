@@ -20,7 +20,7 @@ As part of her post-graduate studies at the University of Texas at San Antonio (
 <figure markdown>
 ![Jasmine with her mother at UTSA commencement ceremony](assets/jasmine-graduation.jpg){ height="323" width="256" style="display:block;margin-left:auto;margin-right:auto;" }
   <figcaption markdown>
-  Jasmine with her mother at<br>UTSA commencement ceremony
+  Jasmine with her mother at her<br>UTSA commencement ceremony
   </figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Shortly afterwards, Jasmine began focusing on further specialization in [Interna
 <figure markdown>
 ![Jasmine with Dr. Richard C. Schwartz](assets/jasmine-with-schwartz.jpeg){ height="309" width="512" style="display:block;margin-left:auto;margin-right:auto;" }
   <figcaption markdown>
-  [Jasmine with Dr. Richard C. Schwartz (IFS Founder)](https://ifs-institute.com/about-us/richard-c-schwartz-phd)
+  Jasmine with [Dr. Richard C. Schwartz, IFS Founder](https://ifs-institute.com/about-us/richard-c-schwartz-phd)
   </figcaption>
 </figure>
 
