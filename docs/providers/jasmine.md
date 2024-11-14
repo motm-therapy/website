@@ -21,6 +21,14 @@ After completing her association period, (similar to a medical residence, but fo
 
 Shortly afterwards, Jasmine began focusing on further specialization in [Internal Family Systems (IFS) Therapy](https://www.psychologytoday.com/us/therapy-types/internal-family-systems-therapy) and completed the [IFS Level 1 Training](https://ifs-institute.com/trainings/level-1) course in 2024, hosted by the [IFS Institute](https://ifs-institute.com/).
 
+
+<figure markdown>
+![Jasmine Scott-Cochran](assets/jasmine-with-schwartz.jpeg){ height="309" width="512" style="display:block;margin-left:auto;margin-right:auto;" }
+  <figcaption markdown>
+  [Jasmine with Dr. Richard Schwartz (IFS Founder)](https://ifs-institute.com/about-us/richard-c-schwartz-phd)
+  </figcaption>
+</figure>
+
 As your counselor, Jasmine will use her rich behavioral-focused and integrative healthcare backgrounds to inform her therapeutic approach. She will work with you to create a strengths-based, goal-oriented, treatment program that is specialized to meet your individual needs.
 
 ## Education
