@@ -17,15 +17,22 @@ Jasmine started her career in Anchorage, AK as a behavioral technician in adoles
 
 After moving to Texas in 2011, Jasmine continued working in treatment programs focused on adolescents and/or on the neuro-divergent in facilities like [New Life Children's Center](https://upbring.org/new-life-childrens-center/) and for companies like [Butterfly Effects](https://butterflyeffects.com/). As part of her post-graduate studies, she completed an internship in integrative behavioral healthcare at the [UT Health - Robert B. Green Campus](https://www.uthscsa.edu/patient-care/physicians/location/Robert-B-Green-Campus-Downtown), assisting physicians with patients requiring behavioral intervention through [Solution-Focused Brief Therapy (SFBT)](https://www.psychologytoday.com/us/therapy-types/solution-focused-brief-therapy) as a complementary service to their medical care. After completing her degree (MS in Clinical Mental Health Counseling) and becoming a National Certified Counselor (NCC), Jasmine began working in private practice gaining valuable experience as a Licensed Professional Counselor - Associate (LPC-A) under the supervision of more experienced professionals.
 
+<figure markdown>
+![Jasmine with her mother at UTSA commencement ceremony](assets/jasmine-graduation.jpg){ height="323" width="256" style="display:block;margin-left:auto;margin-right:auto;" }
+  <figcaption markdown>
+  Jasmine with her mother,<br>UTSA commencement ceremony
+  </figcaption>
+</figure>
+
 After completing her association period, (similar to a medical residence, but for therapists), Jasmine was certified as a [Licensed Professional Counselor (LPC)](https://nami.org/About-Mental-Illness/Treatments/Types-of-Mental-Health-Professionals) by the State of Texas. Jasmine then began focusing on specialty certifications in disorders like [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder). Jasmine opened her own therapy practice, (Matters of the Mind Therapy, PLLC), in 2023.
 
 Shortly afterwards, Jasmine began focusing on further specialization in [Internal Family Systems (IFS) Therapy](https://www.psychologytoday.com/us/therapy-types/internal-family-systems-therapy) and completed the [IFS Level 1 Training](https://ifs-institute.com/trainings/level-1) course in 2024, hosted by the [IFS Institute](https://ifs-institute.com/).
 
 
 <figure markdown>
-![Jasmine Scott-Cochran](assets/jasmine-with-schwartz.jpeg){ height="309" width="512" style="display:block;margin-left:auto;margin-right:auto;" }
+![Jasmine with Dr. Richard C. Schwartz](assets/jasmine-with-schwartz.jpeg){ height="309" width="512" style="display:block;margin-left:auto;margin-right:auto;" }
   <figcaption markdown>
-  [Jasmine with Dr. Richard Schwartz (IFS Founder)](https://ifs-institute.com/about-us/richard-c-schwartz-phd)
+  [Jasmine with Dr. Richard C. Schwartz (IFS Founder)](https://ifs-institute.com/about-us/richard-c-schwartz-phd)
   </figcaption>
 </figure>
 
