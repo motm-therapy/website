@@ -24,7 +24,7 @@ Jasmine's post-graduate work included completing a MS in Clinical Mental Health 
   </figcaption>
 </figure>
 
-Shortly after graduation, Jasmine became a National Certified Counselor (NCC), and began work in private practice, gaining valuable experience as a Licensed Professional Counselor - Associate (LPC-A) under the supervision of more experienced professionals. During this this association period, (similar to a medical residency, but for therapists). she gained additional experience and specialty certification in [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder), becoming a member of the International OCD Foundation.
+Shortly after graduation, Jasmine became a National Certified Counselor (NCC), and began work in private practice, gaining valuable experience as a Licensed Professional Counselor - Associate (LPC-A) under the supervision of more experienced professionals. During this this association period, (similar to a medical residency, but for therapists), she gained additional experience and specialty certification in [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder), becoming a member of the International OCD Foundation.
 
 After completing her association period, Jasmine was certified as a [Licensed Professional Counselor (LPC)](https://nami.org/About-Mental-Illness/Treatments/Types-of-Mental-Health-Professionals) by the State of Texas, and soon after opened Matters of the Mind Therapy in 2023.
 
