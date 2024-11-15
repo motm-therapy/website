@@ -13,9 +13,9 @@ description: This page provides a biography and qualifications for Jasmine Scott
 
 Jasmine has worked in the field of psychology for nearly 20 years.
 
-Jasmine started her career in Anchorage, AK as a behavioral technician in adolescent residential treatment facilities like [AK Child & Family](https://www.akchild.org/) (formerly Alaska Children's Services) and also worked at Alaska's premier psychiatric hospital: the [Alaska Psychiatric Institute](https://dfcs.alaska.gov/api/Pages/default.aspx). After moving to Texas in 2011, Jasmine continued working in treatment programs focused on adolescents and/or on the neuro-divergent in facilities like [New Life Children's Center](https://upbring.org/new-life-childrens-center/) and for companies like [Butterfly Effects](https://butterflyeffects.com/).
+Jasmine started her career in Anchorage, AK as a behavioral technician in adolescent residential treatment facilities like [AK Child & Family](https://www.akchild.org/) (formerly Alaska Children's Services) and also worked at Alaska's premier psychiatric hospital: the [Alaska Psychiatric Institute](https://dfcs.alaska.gov/api/Pages/default.aspx). After moving to Texas in 2011, Jasmine continued working in treatment programs focused on adolescents and/or on the neurodivergent in facilities like [New Life Children's Center](https://upbring.org/new-life-childrens-center/) and for companies like [Butterfly Effects](https://butterflyeffects.com/).
 
-As part of her post-graduate studies at the [University of Texas at San Antonio (UTSA)](https://www.utsa.edu/), she completed an internship in integrative behavioral healthcare at the [UT Health - Robert B. Green Campus](https://www.uthscsa.edu/patient-care/physicians/location/Robert-B-Green-Campus-Downtown), assisting physicians with patients requiring behavioral intervention through [Solution-Focused Brief Therapy (SFBT)](https://www.psychologytoday.com/us/therapy-types/solution-focused-brief-therapy) as a complementary service to their medical care. After completing her degree (MS in Clinical Mental Health Counseling) in 2018 and becoming a National Certified Counselor (NCC), Jasmine began working in private practice gaining valuable experience as a Licensed Professional Counselor - Associate (LPC-A) under the supervision of more experienced professionals.
+Jasmine's post-graduate work included completing a MS in Clinical Mental Health Counseling from the [University of Texas at San Antonio (UTSA)](https://www.utsa.edu/) in 2018, As part of her post-graduate work, she was selected for an internship in integrative behavioral healthcare at the [UT Health - Robert B. Green Campus](https://www.uthscsa.edu/patient-care/physicians/location/Robert-B-Green-Campus-Downtown), assisting physicians with patients requiring behavioral intervention through [Solution-Focused Brief Therapy (SFBT)](https://www.psychologytoday.com/us/therapy-types/solution-focused-brief-therapy) as a complementary service to their medical care.
 
 <figure markdown>
 ![Jasmine with her mother at UTSA commencement ceremony](assets/jasmine-graduation.jpg){ height="323" width="256" style="display:block;margin-left:auto;margin-right:auto;" }
@@ -24,10 +24,18 @@ As part of her post-graduate studies at the [University of Texas at San Antonio 
   </figcaption>
 </figure>
 
-After completing her association period, (similar to a medical residence, but for therapists), Jasmine was certified as a [Licensed Professional Counselor (LPC)](https://nami.org/About-Mental-Illness/Treatments/Types-of-Mental-Health-Professionals) by the State of Texas. Jasmine then began focusing on specialty certifications in disorders like [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder). Jasmine opened her own therapy practice, (Matters of the Mind Therapy, PLLC), in 2023.
+Shortly after graduation, Jasmine became a National Certified Counselor (NCC), and began work in private practice, gaining valuable experience as a Licensed Professional Counselor - Associate (LPC-A) under the supervision of more experienced professionals. During this this association period, (similar to a medical residency, but for therapists). she gained additional experience and specialty certification in [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder), becoming a member of the International OCD Foundation.
 
-Shortly afterwards, Jasmine began focusing on further specialization in [Internal Family Systems (IFS) Therapy](https://www.psychologytoday.com/us/therapy-types/internal-family-systems-therapy) and completed the [IFS Level 1 Training](https://ifs-institute.com/trainings/level-1) course in 2024, hosted by the [IFS Institute](https://ifs-institute.com/).
+After completing her association period, Jasmine was certified as a [Licensed Professional Counselor (LPC)](https://nami.org/About-Mental-Illness/Treatments/Types-of-Mental-Health-Professionals) by the State of Texas, and soon after opened Matters of the Mind Therapy in 2023.
 
+<figure markdown>
+![First Matters of the Mind Therapy office](assets/first-motm-therapy-office.jpeg){ height="297" width="512" style="display:block;margin-left:auto;margin-right:auto;" }
+  <figcaption markdown>
+  First Matters of the Mind Therapy office
+  </figcaption>
+</figure>
+
+Jasmine gained additional experience and specialty certification in [Internal Family Systems (IFS) Therapy](https://www.psychologytoday.com/us/therapy-types/internal-family-systems-therapy), completing the [IFS Level 1 Training](https://ifs-institute.com/trainings/level-1) course in 2024, hosted by the [IFS Institute](https://ifs-institute.com/).
 
 <figure markdown>
 ![Jasmine with Dr. Richard C. Schwartz](assets/jasmine-with-schwartz.jpeg){ height="309" width="512" style="display:block;margin-left:auto;margin-right:auto;" }
