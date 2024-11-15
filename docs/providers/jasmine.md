@@ -11,6 +11,8 @@ description: This page provides a biography and qualifications for Jasmine Scott
   </figcaption>
 </figure>
 
+## Experience
+
 Jasmine has worked in the field of psychology for nearly 20 years.
 
 Jasmine started her career in Anchorage, AK as a behavioral technician in adolescent residential treatment facilities like [AK Child & Family](https://www.akchild.org/) (formerly Alaska Children's Services) and also worked at Alaska's premier psychiatric hospital: the [Alaska Psychiatric Institute](https://dfcs.alaska.gov/api/Pages/default.aspx). After moving to Texas in 2011, Jasmine continued working in treatment programs focused on adolescents and/or on the neurodivergent in facilities like [New Life Children's Center](https://upbring.org/new-life-childrens-center/) and for companies like [Butterfly Effects](https://butterflyeffects.com/).
@@ -43,6 +45,8 @@ Jasmine gained additional experience and specialty certification in [Internal Fa
   Jasmine with [Dr. Richard C. Schwartz, IFS Founder](https://ifs-institute.com/about-us/richard-c-schwartz-phd)
   </figcaption>
 </figure>
+
+## Approach
 
 As your counselor, Jasmine will use her rich behavioral-focused and integrative healthcare backgrounds to inform her therapeutic approach. She will work with you to create a strengths-based, goal-oriented, treatment program that is specialized to meet your individual needs.
 
