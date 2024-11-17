@@ -21,13 +21,6 @@ After relocating to Texas in 2011, Jasmine continued her work with adolescents a
 
 Building on her field experience, Jasmine earned a Master’s degree in Clinical Mental Health Counseling from the [University of Texas at San Antonio (UTSA)](https://www.utsa.edu/) in 2018. During her studies, Jasmine was selected for a highly competitive internship in integrative behavioral healthcare at the [UT Health - Robert B. Green Campus](https://www.uthscsa.edu/patient-care/physicians/location/Robert-B-Green-Campus-Downtown), where she collaborated with physicians to provide behavioral health interventions through [Solution-Focused Brief Therapy (SFBT)](https://www.psychologytoday.com/us/therapy-types/solution-focused-brief-therapy), supporting patients as part of a holistic medical care team.
 
-<figure markdown>
-![Jasmine with her mother at UTSA commencement ceremony](assets/jasmine-graduation.jpg){ height="323" width="256" style="display:block;margin-left:auto;margin-right:auto;" }
-  <figcaption markdown>
-  Jasmine with her mother at her<br>UTSA commencement ceremony
-  </figcaption>
-</figure>
-
 After graduation, Jasmine became a National Certified Counselor (NCC) and began her journey in private practice as a Licensed Professional Counselor - Associate (LPC-A). Under the mentorship of seasoned professionals, Jasmine gained invaluable experience and earned a certification in [Obsessive Compulsive Disorder (OCD)](https://www.psychologytoday.com/us/conditions/obsessive-compulsive-disorder), which, along with her membership in the International OCD Foundation, reflects her dedication to providing specialized care for clients with OCD.
 
 Having received her [Licensed Professional Counselor (LPC)](https://nami.org/About-Mental-Illness/Treatments/Types-of-Mental-Health-Professionals) certification from the State of Texas, Jasmine founded Matters of the Mind Therapy in 2023. Her practice is dedicated to providing compassionate, evidence-based therapy to individuals seeking mental health support.
