@@ -48,6 +48,6 @@ Please call your provider to confirm receipt.
 
 The practice accepts physical mail, including packages, at the following mailing address.
 
-MATTERS OF THE MIND THERAPY, PLLC
-85 NE LOOP 410 STE 203
-SAN ANTONIO TX 78216-5836
+MATTERS OF THE MIND THERAPY, PLLC  
+85 NE LOOP 410 STE 203  
+SAN ANTONIO TX 78216-5836  
