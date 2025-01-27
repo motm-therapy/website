@@ -59,9 +59,9 @@ After requesting an appointment via the client portal, new clients will receive 
 
 In order to be considered under the care of a provider at the practice, new clients must meet the following criteria, in this order:
 
-    - Must have requested a session appointment, (not a consultation), via call, email, or client portal
-    - Must have completed and submitted initial intake paperwork
-    - Must have received notification from our electronic scheduling system of first session appointment, (not a consultation)
+- Must have requested a session appointment, (not a consultation), via call, email, or client portal
+- Must have completed and submitted initial intake paperwork
+- Must have received notification from our electronic scheduling system of first session appointment, (not a consultation)
 
 ## Existing Clients
 
@@ -88,10 +88,10 @@ In order to be considered a former client, one *must* meet certain criteria.
 
 In order to be considered no longer under the care of a provider at the practice, one must meet at least one the following criteria:
 
-    - A provider has notified the client that treatment has come to an end due to sufficient client improvement
-    - A provider has notified the client that the provider believes that the client is no longer benefiting from treatment
-    - A provider has notified the client that the client's problem is beyond the provider's competency or scope of their license
-    - A provider has refused to schedule additional treatment sessions due to non-payment by the client
-    - A provider is unable or unwilling to continue treatment for other reasons covered by law and/or their licensing authority
+- A provider has notified the client that treatment has come to an end due to sufficient client improvement
+- A provider has notified the client that the provider believes that the client is no longer benefiting from treatment
+- A provider has notified the client that the client's problem is beyond the provider's competency or scope of their license
+- A provider has refused to schedule additional treatment sessions due to non-payment by the client
+- A provider is unable or unwilling to continue treatment for other reasons covered by law and/or their licensing authority
 
 Former clients wishing to resume treatment should contact their former provider to discuss resuming treatment. Former clients that wish to start treatment with a new provider at the practice, may [contact](contact.md) a representative of the practice via email or telephone to receive a consultation with a new provider, (if one is available).
