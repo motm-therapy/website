@@ -85,7 +85,7 @@ Providers of the practice are under *no* obligation to continue or resume treatm
 Former clients do *not* receive special consideration over existing clients for scheduling.
 Former clients do *not* receive special consideration over prospective clients on a provider's wait list.
 
-In order to be considered no longer under the care of a provider at the practice, one must meet at least one the following criteria:
+In order to be considered no longer under the care of a provider at the practice, one must meet at least one of the following criteria:
 
 - A client has notified the provider that treatment has come to an end
 - A provider has notified the client that treatment has come to an end due to sufficient client improvement
