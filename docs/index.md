@@ -36,19 +36,19 @@ Being active members in good standing of the therapeutic community is important 
 
 <div class="grid" markdown>
 
-[![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://iocdf.org)
-{ .card style="background:#ffffff;" }
-
 [![IFS Institute](assets/ifs-institute.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://ifs-institute.com/)
 { .card style="background:#ffffff;" }
 
 [![Texas Behavioral Health Executive Council](assets/txbhec.png){ height="64" width="64" style="display:block;margin-left:auto;margin-right:auto;" }](https://www.bhec.texas.gov/texas-state-board-of-examiners-of-professional-counselors/index.html)
 { .card style="background:#ffce00;" }
 
-[![National Board for Certified Counselors](assets/nbcc.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://nbcc.org/)
+[![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://iocdf.org)
 { .card style="background:#ffffff;" }
 
 [![Strong Star Training Initiative](assets/strong-star.png){ height="64" width="179" style="display:block;margin-left:auto;margin-right:auto;" }](https://strongstartraining.org/)
 { .card style="background:#1d4255;" }
+
+[![National Board for Certified Counselors](assets/nbcc.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://nbcc.org/)
+{ .card style="background:#ffffff;" }
 
 </div>
