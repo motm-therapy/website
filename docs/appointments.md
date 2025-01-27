@@ -4,20 +4,20 @@ description: This page contains information on how to book appointments with pro
 
 # :fontawesome-regular-calendar-days: Appointments
 
-Prospective, new, and existing clients should use our client portal for scheduling appointments and consultations.
+Prospective, new, and existing clients should use the client portal for scheduling appointments and consultations.
 
 [portal.motmtherapy.com](https://portal.motmtherapy.com){ .md-button }
 
-Appointment times are not finalized until a provider approves your appointment request
-and you receive a notification for our electronic scheduling system.
-Ensure your provided contact information is accurate in the client portal so that you receive appointment approval notifications.
-You will also receive appointment reminders prior to scheduled appointment times as a courtesy.
+Appointment times are not finalized until a provider approves a client's appointment request
+and the client receives an approval notification from the practice's electronic scheduling system.
+Clients must ensure contact information is accurate in the client portal so that appointment approval notifications are received.
+Clients will also receive appointment reminders prior to scheduled appointment times as a courtesy.
 
 Communications from the client portal will come from domains starting with:
 
 - **simplepractice.com**
 
-Please ensure your spam filter is not marking these as junk mail in order to receive emails from the client portal.
+Clients should ensure spam filter are not marking these as junk mail in order to receive emails from the client portal.
 
 ## Prospective Clients
 
@@ -61,7 +61,7 @@ In order to be considered under the care of a provider at the practice, new clie
 
 - Must have requested a session appointment, (not a consultation), via call, email, or client portal
 - Must have completed and submitted initial intake paperwork
-- Must have received notification from our electronic scheduling system of first session appointment, (not a consultation)
+- Must have received notification from the practice's electronic scheduling system of first session appointment, (not a consultation)
 
 ## Existing Clients
 
