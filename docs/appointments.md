@@ -84,7 +84,6 @@ Existing clients interested in individual or couples psychotherapy sessions, sho
 Providers of the practice are under *no* obligation to continue or resume treatment of former clients.
 Former clients do *not* receive special consideration over existing clients for scheduling.
 Former clients do *not* receive special consideration over prospective clients on a provider's wait list.
-In order to be considered a former client, one *must* meet certain criteria.
 
 In order to be considered no longer under the care of a provider at the practice, one must meet at least one the following criteria:
 
