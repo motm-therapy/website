@@ -34,7 +34,7 @@ Prospective clients that would like to schedule a free 15 minute consultation wi
     This option is only available on the portal when a provider at the the practice is accepting new clients.
 
 Scheduling a consultation does not obligate prospective clients or providers to begin treatment,
-nor does not make a prospective client a new client of the practice.
+nor does it make a prospective client a new client of the practice.
 
 Consultations are strictly for prospective clients to ask questions about the practice and provider,
 so that prospective clients and providers can assess if they are the right fit for one another.
