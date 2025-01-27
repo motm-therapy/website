@@ -36,25 +36,16 @@ Being active members in good standing of the therapeutic community is important 
 
 <div class="grid" markdown>
 
-[![Psychology Today](assets/pt-logo.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://www.psychologytoday.com/us)
-{ .card style="background:#477be4;" }
-
 [![International OCD Foundation](assets/ocd-foundation.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://iocdf.org)
 { .card style="background:#ffffff;" }
 
 [![IFS Institute](assets/ifs-institute.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://ifs-institute.com/)
 { .card style="background:#ffffff;" }
 
-[![Alma](assets/alma-logo.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://helloalma.com)
-{ .card style="background:#02291c;" }
-
 [![Texas Behavioral Health Executive Council](assets/txbhec.png){ height="64" width="64" style="display:block;margin-left:auto;margin-right:auto;" }](https://www.bhec.texas.gov/texas-state-board-of-examiners-of-professional-counselors/index.html)
 { .card style="background:#ffce00;" }
 
 [![National Board for Certified Counselors](assets/nbcc.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://nbcc.org/)
-{ .card style="background:#ffffff;" }
-
-[![Monarch](assets/monarch.png){ height="64" width="256" style="display:block;margin-left:auto;margin-right:auto;" }](https://meetmonarch.com/)
 { .card style="background:#ffffff;" }
 
 [![Strong Star Training Initiative](assets/strong-star.png){ height="64" width="179" style="display:block;margin-left:auto;margin-right:auto;" }](https://strongstartraining.org/)
