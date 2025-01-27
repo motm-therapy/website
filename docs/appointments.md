@@ -21,7 +21,7 @@ Please ensure your spam filter is not marking these as junk mail in order to rec
 
 ## Prospective Clients
 
-!!! Important
+!!! warning
 
     Prospective clients are *not* considered to be under the care of a provider at the practice.
 
@@ -29,7 +29,7 @@ Prospective clients that would like to schedule a free 15 minute consultation wi
 
 - ***I'm a New Client > Initial Consultation - No Charge (select)***
 
-!!! Note
+!!! note
 
     This option is only available on the portal when a provider at the the practice is accepting new clients.
 
@@ -41,7 +41,7 @@ so that prospective clients and providers can assess if they are the right fit f
 
 ## New Clients
 
-!!! Important
+!!! warning
 
     New clients are *not* considered to be under the care of a provider at the practice until certain criteria are met.
 
@@ -53,7 +53,7 @@ New clients interested in individual or couples psychotherapy sessions, should s
 
 After requesting an appointment via the client portal, new clients will receive an email explaining the next steps of the intake process.
 
-!!! Note
+!!! note
 
     This option is only available on the portal when a provider at the practice is accepting new clients.
 
@@ -65,7 +65,7 @@ In order to be considered under the care of a provider at the practice, new clie
 
 ## Existing Clients
 
-!!! Important
+!!! note
 
     Existing clients *are* considered to be under the care of a provider at the practice.
 
@@ -77,7 +77,7 @@ Existing clients interested in individual or couples psychotherapy sessions, sho
 
 ## Former Clients
 
-!!! Important
+!!! warning
 
     Former clients are *no longer* considered to be under the care of a provider at the practice.
 
@@ -88,10 +88,12 @@ In order to be considered a former client, one *must* meet certain criteria.
 
 In order to be considered no longer under the care of a provider at the practice, one must meet at least one the following criteria:
 
+- A client has notified the provider that treatment has come to an end
 - A provider has notified the client that treatment has come to an end due to sufficient client improvement
 - A provider has notified the client that the provider believes that the client is no longer benefiting from treatment
 - A provider has notified the client that the client's problem is beyond the provider's competency or scope of their license
 - A provider has refused to schedule additional treatment sessions due to non-payment by the client
 - A provider is unable or unwilling to continue treatment for other reasons covered by law and/or their licensing authority
 
-Former clients wishing to resume treatment should contact their former provider to discuss resuming treatment. Former clients that wish to start treatment with a new provider at the practice, may [contact](contact.md) a representative of the practice via email or telephone to receive a consultation with a new provider, (if one is available).
+Former clients wishing to resume treatment should contact their former provider to discuss resuming treatment. Former clients that wish to start treatment with a new provider at the practice, may [contact](contact.md) a representative of the practice via email or telephone to discuss the prospect of a consultation with a new provider.
+
