@@ -27,6 +27,13 @@ Jasmine is a Licensed Professional Counselor (LPC) in Texas and holds a specialt
 
 In 2023, Jasmine launched Matters of the Mind Therapy — a space where people can feel safe, seen, and supported in exploring their inner world. She works with adolescents, adults, and families, using evidence-based approaches tailored to each client’s goals and needs.
 
+<figure markdown>
+![Jasmine's Therapy Office](assets/jasmine-office.jpg){ height="309" width="512" style="display:block;margin-left:auto;margin-right:auto;" }
+  <figcaption markdown>
+  Look Forward to Meeting You!
+  </figcaption>
+</figure>
+
 Jasmine is currently deepening her work with Internal Family Systems (IFS) Therapy, a model that’s become central to her approach. She has completed both Level 1 and Level 2 training through the IFS Institute, has served as a Program Assistant for Level 1 trainings, and has had the opportunity to learn directly from IFS founder Dr. Richard Schwartz in advanced workshops. Jasmine is also on track for official IFS certification — a reflection of her commitment to offering clients a grounded, compassionate path toward inner healing and self-leadership.
 
 <figure markdown>
