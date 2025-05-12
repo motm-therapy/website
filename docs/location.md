@@ -21,9 +21,9 @@ In-person sessions in San Antonio are conducted at our offices on the Northeast 
 
 This office is located in [the Atrium office building](assets/atrium-front.jpg) at the corner of the NE I-410 Loop access road and Mertz Drive.
 
-The main entrance is in the [rear of the building](assets/atrium-rear.jpg), (not visible from the highway).
+The main entrance is in the rear of the building, (not visible from the highway).
 
-After entering [the lobby](assets/atrium-lobby.jpg), take an elevator to the second floor.
+After entering the lobby, take an elevator to the second floor.
 
 As you exit the elevator, [Suite 203](assets/atrium-suite-203.jpg) will be to your left in the far hallway.
 
@@ -39,18 +39,8 @@ As you exit the elevator, [Suite 203](assets/atrium-suite-203.jpg) will be to yo
 </div>
 
 <figure markdown>
-  ![The Atrium Office - Rear](assets/atrium-rear.jpg){ height="450" width="600" }
-  <figcaption>The Atrium Office Building (Rear View)</figcaption>
-</figure>
-
-<figure markdown>
   ![The Atrium Office - Front](assets/atrium-front.jpg){ height="450" width="600" }
   <figcaption>The Atrium Office Building (Front View)</figcaption>
-</figure>
-
-<figure markdown>
-  ![The Atrium Office - Lobby](assets/atrium-lobby.jpg){ height="450" width="600" }
-  <figcaption>The Atrium Office Building (Lobby View)</figcaption>
 </figure>
 
 <figure markdown>
