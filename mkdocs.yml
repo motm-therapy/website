@@ -64,6 +64,7 @@ nav:
     - 'Jasmine Scott-Cochran': "providers/jasmine.md"
   - Appointments: "appointments.md"
   - Contact: "contact.md"
+  - IFS: "ifs.md"
 
 plugins:
   - search
