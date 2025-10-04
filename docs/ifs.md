@@ -28,7 +28,7 @@ Matters of the Mind Therapy now offers **IFS Familiarization** for therapists, c
 ## Rates
 
 - **Individual Rate** — The instructor's current cash rate for therapy sessions (see [rates page](https://motmtherapy.com/rates/)).  
-- ***Group Rate** — For group scheduling and pricing, [contact us](https://motmtherapy.com/contact/).
+- **Group Rate** — For group scheduling and pricing, [contact us](https://motmtherapy.com/contact/).
 
 !!! warning "Important Disclaimer"
     This is **not** an official [IFS Institute](https://ifs-institute.com/) training course and does **not** count toward [IFS certification](https://ifs-institute.com/ifs-certification).  
