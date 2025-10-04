@@ -4,6 +4,10 @@ description: This page describes the IFS Familiarization service at Matters of t
 
 # IFS Familiarization
 
+!!! warning "Important Disclaimer"
+    This is **not** an official [IFS Institute](https://ifs-institute.com/) training course and does **not** count toward [IFS certification](https://ifs-institute.com/ifs-certification).  
+    This will **not** count as consulting hours with an [IFS Approved Clinical Consultant](https://ifs-institute.com/trainings/ifs-certification/approved-clinical-consultants), and this service is **not** a substitute for any official IFS Institute training, consultation, or certification.
+
 Are you curious about [Internal Family Systems (IFS)](https://ifs-institute.com/) therapy but not yet ready to commit to formal training? Or are you already on the waiting list for the official IFS Level 1 training course and want to feel more prepared?
 
 Matters of the Mind Therapy now offers **IFS Familiarization** for therapists, clinicians, chaplains, and other helping professionals who want a gentle, supportive introduction to IFS concepts and practice.
@@ -29,10 +33,6 @@ Matters of the Mind Therapy now offers **IFS Familiarization** for therapists, c
 
 - **Individual Rate** — The instructor's current cash rate for therapy sessions (see [rates page](https://motmtherapy.com/rates/)).  
 - **Group Rate** — For group scheduling and pricing, [contact us](https://motmtherapy.com/contact/).
-
-!!! warning "Important Disclaimer"
-    This is **not** an official [IFS Institute](https://ifs-institute.com/) training course and does **not** count toward [IFS certification](https://ifs-institute.com/ifs-certification).  
-    This will **not** count as consulting hours with an [IFS Approved Clinical Consultant](https://ifs-institute.com/trainings/ifs-certification/approved-clinical-consultants), and this service is **not** a substitute for any official IFS Institute training, consultation, or certification.
 
 ## Instructors
 
