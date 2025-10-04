@@ -22,7 +22,7 @@ Matters of the Mind Therapy now offers **IFS Familiarization** for therapists, c
 ## Audience
 
 - Therapists and helping professionals exploring whether IFS training is right for them  
-- Those currently on the [IFS Level 1 training](https://ifs-institute.com/trainings/level-1) waitlist who want a head start on language and practices  
+- Those currently considering [IFS Level 1 training](https://ifs-institute.com/trainings/level-1) wanting a head start on language and practices  
 - Chaplains, clinicians, and other care providers seeking to integrate IFS-informed insight into their work
 
 ## Rates
